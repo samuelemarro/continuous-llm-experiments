@@ -163,10 +163,7 @@ class PreTrainedTokenizerFast(PreTrainedTokenizerBase):
             kwargs.setdefault("max_length", _padding["length"])
             kwargs.setdefault("pad_to_multiple_of", _padding["pad_to_multiple_of"])
 
-        if "add_bos_token" in kwargs or "add_eos_token" in kwargs:
-            self._update_bos_eos_tokens()
-
-        self._add_bos_token = kwargs.get("add_bos_token", True)
+        self._add_bos_token = kwargs.get("add_bos_token", None)
         self._add_eos_token = kwargs.get("add_eos_token", None)
 
         # We call this after having initialized the backend tokenizer because we update it.
