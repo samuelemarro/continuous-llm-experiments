@@ -122,11 +122,7 @@ class PreTrainedTokenizerFast(PreTrainedTokenizerBase):
             gguf_param = load_gguf_checkpoint(kwargs.get("vocab_file"))
             architecture = gguf_param["config"]["model_type"]
             tokenizer_dict = gguf_param["tokenizer"]
-            fast_tokenizer, additional_kwargs = convert_gguf_tokenizer(architecture, tokenizer_dict)
-
-            if len(additional_kwargs) > 0:
-                kwargs.update(additional_kwargs)
-
+            fast_tokenizer = convert_gguf_tokenizer(architecture, tokenizer_dict)
         elif self.slow_tokenizer_class is not None:
             # We need to create and convert a slow tokenizer to build the backend
             slow_tokenizer = self.slow_tokenizer_class(*args, **kwargs)
@@ -167,8 +163,17 @@ class PreTrainedTokenizerFast(PreTrainedTokenizerBase):
             kwargs.setdefault("max_length", _padding["length"])
             kwargs.setdefault("pad_to_multiple_of", _padding["pad_to_multiple_of"])
 
+        if "add_bos_token" in kwargs or "add_eos_token" in kwargs:
+            self._update_bos_eos_tokens()
+
+        self._add_bos_token = kwargs.get("add_bos_token", True)
+        self._add_eos_token = kwargs.get("add_eos_token", None)
+
         # We call this after having initialized the backend tokenizer because we update it.
         super().__init__(**kwargs)
+
+        if "add_bos_token" in kwargs or "add_eos_token" in kwargs:
+            self._update_bos_eos_tokens()
 
         # Set the splitting mode for special tokens for the tokenizer to be used throughout the class.
         self._tokenizer.encode_special_tokens = self.split_special_tokens
@@ -871,3 +876,49 @@ class PreTrainedTokenizerFast(PreTrainedTokenizerBase):
             kwargs["additional_special_tokens"] = additional_special_tokens
 
         return self.__class__(tokenizer_object=tokenizer, **kwargs)
+
+    # Copied from LlamaTokenizerFast (update_post_processor, add_bos_token, add_eos_token
+    def _update_bos_eos_tokens(self):
+        """
+        Updates the underlying post processor with the current `bos_token` and `eos_token`.
+        """
+        bos = self.bos_token
+        bos_token_id = self.bos_token_id
+        if bos is None and self.add_bos_token:
+            raise ValueError("add_bos_token = True but bos_token = None")
+
+        eos = self.eos_token
+        eos_token_id = self.eos_token_id
+        if eos is None and self.add_eos_token:
+            raise ValueError("add_eos_token = True but eos_token = None")
+
+        single = f"{(bos + ':0 ') if self.add_bos_token else ''}$A:0{(' ' + eos + ':0') if self.add_eos_token else ''}"
+        pair = f"{single}{(' ' + bos + ':1') if self.add_bos_token else ''} $B:1{(' ' + eos + ':1') if self.add_eos_token else ''}"
+
+        special_tokens = []
+        if self.add_bos_token:
+            special_tokens.append((bos, bos_token_id))
+        if self.add_eos_token:
+            special_tokens.append((eos, eos_token_id))
+        self._tokenizer.post_processor = processors.TemplateProcessing(
+            single=single, pair=pair, special_tokens=special_tokens
+        )
+
+    @property
+    def add_eos_token(self):
+        return self._add_eos_token
+
+    @property
+    def add_bos_token(self):
+        return self._add_bos_token
+
+    @add_eos_token.setter
+    def add_eos_token(self, value):
+        self._add_eos_token = value
+        self._update_bos_eos_tokens()
+
+    @add_bos_token.setter
+    def add_bos_token(self, value):
+        self._add_bos_token = value
+        self._update_bos_eos_tokens()
+
