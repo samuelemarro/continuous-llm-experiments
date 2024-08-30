@@ -799,13 +799,13 @@ Now begin!""",
             )
 
             final_plan_redaction = f"""Here is the plan of action that I will follow to solve the task:
-<plan>
+```
 {answer_plan}
-<end_plan>"""
+```"""
             final_facts_redaction = f"""Here are the facts that I know so far:
-<facts_list>
+```
 {answer_facts}
-<end_facts_list>""".strip()
+```""".strip()
             self.logs.append({"plan": final_plan_redaction, "facts": final_facts_redaction})
             self.logger.debug("===== Initial plan: =====")
             self.logger.debug(final_plan_redaction)
@@ -846,9 +846,9 @@ Now begin!""",
             # Log final facts and plan
             final_plan_redaction = PLAN_UPDATE_FINAL_PLAN_REDACTION.format(task=task, plan_update=plan_update)
             final_facts_redaction = f"""Here is the updated list of the facts that I know:
-<updated_facts_list>
+```
 {facts_update}
-<end_updated_facts_list>"""
+```"""
             self.logs.append({"plan": final_plan_redaction, "facts": final_facts_redaction})
             self.logger.debug("===== Updated plan: =====")
             self.logger.debug(final_plan_redaction)
