@@ -301,7 +301,7 @@ class GPTNeoXAttention(nn.Module):
             seq_len += layer_past.get_seq_length(self.layer_idx)
 
         cos, sin = self.rotary_emb(value, seq_len=seq_len)
-        query, key = apply_rotary_pos_emb(query_rot, key_rot, cos, sin, position_ids)
+        query, key = apply_rotary_pos_emb(query_rot, key_rot, cos, sin, position_ids, rotary_emb=self.rotary_emb)
         query = torch.cat((query, query_pass), dim=-1)
         key = torch.cat((key, key_pass), dim=-1)
 
@@ -664,7 +664,7 @@ def rotate_half(x):
 
 
 # Copied from transformers.models.mixtral.modeling_mixtral.apply_rotary_pos_emb
-def apply_rotary_pos_emb(q, k, cos, sin, position_ids, unsqueeze_dim=1):
+def apply_rotary_pos_emb(q, k, cos, sin, position_ids, unsqueeze_dim=1, rotary_emb=None):
     """Applies Rotary Position Embedding to the query and key tensors.
 
     Args:
@@ -685,8 +685,27 @@ def apply_rotary_pos_emb(q, k, cos, sin, position_ids, unsqueeze_dim=1):
     Returns:
         `tuple(torch.Tensor)` comprising of the query and key tensors rotated using the Rotary Position Embedding.
     """
-    cos = cos[position_ids].unsqueeze(unsqueeze_dim)
-    sin = sin[position_ids].unsqueeze(unsqueeze_dim)
+    # print('Original cos shape:', cos.shape)
+    # cos = cos[position_ids].unsqueeze(unsqueeze_dim)
+    # print('Original postprocessed cos shape:', cos.shape)
+    # sin = sin[position_ids].unsqueeze(unsqueeze_dim)
+    inv_freq = rotary_emb.inv_freq
+    #t = torch.arange(rotary_emb.max_seq_len_cached, device=k.device, dtype=torch.int64).type_as(inv_freq)
+
+    assert position_ids.shape[0] == 1, "Only batch size 1 is supported for now."
+    position_ids = position_ids[0]
+    # print('Position ids shape:', position_ids.shape)
+    freqs = torch.outer(position_ids.type_as(inv_freq), inv_freq)
+    # Different from paper, but it uses a different permutation in order to obtain the same calculation
+    emb = torch.cat((freqs, freqs), dim=-1)
+    emb = emb.unsqueeze(0)
+    # print('Intermediate cos shape:', emb.cos().shape)
+    cos = emb.cos().unsqueeze(unsqueeze_dim)
+    sin = emb.sin().unsqueeze(unsqueeze_dim)
+
+    # print('New cos shape:', cos.shape)
+
+    # print(rotate_half(q).shape, cos.shape, sin.shape)
     q_embed = (q * cos) + (rotate_half(q) * sin)
     k_embed = (k * cos) + (rotate_half(k) * sin)
     return q_embed, k_embed

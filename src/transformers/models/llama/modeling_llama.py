@@ -171,6 +171,7 @@ class LlamaRotaryEmbedding(nn.Module):
             self.original_max_seq_len = config.max_position_embeddings
 
         self.config = config
+        #print('RoPE type:', self.rope_type)
         self.rope_init_fn = ROPE_INIT_FUNCTIONS[self.rope_type]
 
         inv_freq, self.attention_scaling = self.rope_init_fn(self.config, device, **self.rope_kwargs)
@@ -212,6 +213,7 @@ class LlamaRotaryEmbedding(nn.Module):
             cos = emb.cos()
             sin = emb.sin()
 
+        print('Attention scaling:', self.attention_scaling)
         # Advanced RoPE types (e.g. yarn) apply a post-processing scaling factor, equivalent to scaling attention
         cos = cos * self.attention_scaling
         sin = sin * self.attention_scaling
@@ -965,9 +967,12 @@ class LlamaModel(LlamaPreTrainedModel):
         causal_mask = self._update_causal_mask(
             attention_mask, inputs_embeds, cache_position, past_key_values, output_attentions
         )
+        # print('Causal mask:')
+        # print(causal_mask)
         hidden_states = inputs_embeds
 
         # create position embeddings to be shared across the decoder layers
+        #
         position_embeddings = self.rotary_emb(hidden_states, position_ids)
 
         # decoder layers

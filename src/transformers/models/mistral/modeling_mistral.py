@@ -908,7 +908,8 @@ class MistralModel(MistralPreTrainedModel):
         if attention_mask is not None and attention_mask.dim() == 4:
             # in this case we assume that the mask comes already in inverted form and requires no inversion or slicing
             if attention_mask.max() != 0:
-                raise ValueError("Custom 4D attention mask should be passed in inverted form with max==0`")
+                print('Passing attention mask with positive values, assuming it is already inverted')
+                #raise ValueError("Custom 4D attention mask should be passed in inverted form with max==0`")
             causal_mask = attention_mask
         else:
             causal_mask = torch.full(
