@@ -1,0 +1,650 @@
+[
+  {
+    "options": [
+      "apples",
+      "bananas"
+    ],
+    "questions": {
+      "both": "Can {} be eaten raw?",
+      "neither": "Are {} animals?",
+      "first": "Are {} red?",
+      "second": "Do {} have a peel?"
+    }
+  },
+  {
+    "options": [
+      "cats",
+      "dogs"
+    ],
+    "questions": {
+      "both": "Are {} common pets?",
+      "neither": "Are {} able to fly?",
+      "first": "Are {} commonly trained for tricks?",
+      "second": "Are {} afraid of water?"
+    }
+  },
+  {
+    "options": [
+      "cars",
+      "bicycles"
+    ],
+    "questions": {
+      "both": "Do {} require maintenance?",
+      "neither": "Are {} sentient?",
+      "first": "Do {} have an engine?",
+      "second": "Can {} be parked in a garage?"
+    }
+  },
+  {
+    "options": [
+      "roses",
+      "sunflowers"
+    ],
+    "questions": {
+      "both": "Do {} grow in gardens?",
+      "neither": "Do {} glow in the dark?",
+      "first": "Are {} yellow?",
+      "second": "Do {} grow tall?"
+    }
+  },
+  {
+    "options": [
+      "lions",
+      "elephants"
+    ],
+    "questions": {
+      "both": "Are {} mammals?",
+      "neither": "Do {} live in the ocean?",
+      "first": "Are {} known as the king of the jungle?",
+      "second": "Do {} roar?"
+    }
+  },
+  {
+    "options": [
+      "chickens",
+      "cows"
+    ],
+    "questions": {
+      "both": "Do {} live on farms?",
+      "neither": "Are {} carnivores?",
+      "first": "Do {} lay eggs?",
+      "second": "Do {} have horns?"
+    }
+  },
+  {
+    "options": [
+      "sharks",
+      "dolphins"
+    ],
+    "questions": {
+      "both": "Do {} have fins?",
+      "neither": "Do {} have feathers?",
+      "first": "Are {} mammals?",
+      "second": "Are {} considered dangerous?"
+    }
+  },
+  {
+    "options": [
+      "books",
+      "movies"
+    ],
+    "questions": {
+      "both": "Can {} be enjoyed alone?",
+      "neither": "Are {} living things?",
+      "first": "Are {} watched on a screen?",
+      "second": "Are {} written by authors?"
+    }
+  },
+  {
+    "options": [
+      "bread",
+      "cheese"
+    ],
+    "questions": {
+      "both": "Can {} be bought at a grocery store?",
+      "neither": "Do {} grow on trees?",
+      "first": "Are {} made from milk?",
+      "second": "Are {} soft and spongy?"
+    }
+  },
+  {
+    "options": [
+      "planes",
+      "trains"
+    ],
+    "questions": {
+      "both": "Are {} modes of transport?",
+      "neither": "Are {} animals?",
+      "first": "Do {} run on tracks?",
+      "second": "Do {} have wings?"
+    }
+  },
+  {
+    "options": [
+      "pianos",
+      "guitars"
+    ],
+    "questions": {
+      "both": "Are {} used in concerts?",
+      "neither": "Are {} used for cooking?",
+      "first": "Do {} have strings?",
+      "second": "Do {} require two hands to play?"
+    }
+  },
+  {
+    "options": [
+      "deer",
+      "wolves"
+    ],
+    "questions": {
+      "both": "Are {} animals?",
+      "neither": "Do {} have scales?",
+      "first": "Are {} known for climbing trees?",
+      "second": "Are {} carnivores?"
+    }
+  },
+  {
+    "options": [
+      "Mercury",
+      "Mars"
+    ],
+    "questions": {
+      "both": "Do {} orbit the Sun?",
+      "neither": "Do {} emit their own light?",
+      "first": "Are {} closest to the Sun?",
+      "second": "Are {} gas giants?"
+    }
+  },
+  {
+    "options": [
+      "carrots",
+      "spinach"
+    ],
+    "questions": {
+      "both": "Are {} used in cooking?",
+      "neither": "Do {} grow on trees?",
+      "first": "Are {} leafy?",
+      "second": "Do {} grow underground?"
+    }
+  },
+  {
+    "options": [
+      "olive oil",
+      "butter"
+    ],
+    "questions": {
+      "both": "Are {} edible?",
+      "neither": "Do {} have seeds?",
+      "first": "Are {} made from olives?",
+      "second": "Are {} yellow?"
+    }
+  },
+  {
+    "options": [
+      "Italy",
+      "France"
+    ],
+    "questions": {
+      "both": "Does {} have a population?",
+      "neither": "Is {} a continent?",
+      "first": "Is {} known for pizza?",
+      "second": "Is {} on the Atlantic Sea?"
+    }
+  },
+  {
+    "options": [
+      "soda",
+      "juice"
+    ],
+    "questions": {
+      "both": "Is {} served cold?",
+      "neither": "Is {} a hot beverage?",
+      "first": "Is {} made from fruits?",
+      "second": "Is {} known for caffeine?"
+    }
+  },
+  {
+    "options": [
+      "polar bears",
+      "seals"
+    ],
+    "questions": {
+      "both": "Are {} carnivorous?",
+      "neither": "Do {} live in jungles?",
+      "first": "Are {} known for being large predators?",
+      "second": "Are {} white?"
+    }
+  },
+  {
+    "options": [
+      "phones",
+      "televisions"
+    ],
+    "questions": {
+      "both": "Are {} used for communication?",
+      "neither": "Are {} musical instruments?",
+      "first": "Are {} used for watching TV shows?",
+      "second": "Are {} mounted on walls?"
+    }
+  },
+  {
+    "options": [
+      "bicycles",
+      "kayaks"
+    ],
+    "questions": {
+      "both": "Are {} powered by humans?",
+      "neither": "Are {} stationary?",
+      "first": "Are {} used on water?",
+      "second": "Are {} lightweight?"
+    }
+  },
+  {
+    "options": [
+      "bees",
+      "butterflies"
+    ],
+    "questions": {
+      "both": "Are {} found in nature?",
+      "neither": "Can {} live for decades?",
+      "first": "Are {} colorful?",
+      "second": "Do {} have stingers?"
+    }
+  },
+  {
+    "options": [
+      "soccer",
+      "swimming"
+    ],
+    "questions": {
+      "both": "Do {} involve physical activity?",
+      "neither": "Are {} video games?",
+      "first": "Do {} involve water?",
+      "second": "Are {} played on a court?"
+    }
+  },
+  {
+    "options": [
+      "rain",
+      "sunshine"
+    ],
+    "questions": {
+      "both": "Are {} observable outdoors?",
+      "neither": "Do {} happen in space?",
+      "first": "Do {} involve precipitation?",
+      "second": "Are {} common in summer?"
+    }
+  },
+  {
+    "options": [
+      "scissors",
+      "rulers"
+    ],
+    "questions": {
+      "both": "Are {} used by humans?",
+      "neither": "Are {} living organisms?",
+      "first": "Are {} used for cutting?",
+      "second": "Do {} have sharp edges?"
+    }
+  },
+  {
+    "options": [
+      "cakes",
+      "ice cream"
+    ],
+    "questions": {
+      "both": "Do {} contain sugar?",
+      "neither": "Are {} savory?",
+      "first": "Are {} made of ice cream?",
+      "second": "Do {} have frosting?"
+    }
+  },
+  {
+    "options": [
+      "giraffes",
+      "elephants"
+    ],
+    "questions": {
+      "both": "Do {} live in groups?",
+      "neither": "Can {} swim?",
+      "first": "Are {} known for their tusks?",
+      "second": "Do {} live in trees?"
+    }
+  },
+  {
+    "options": [
+      "coffee",
+      "tea"
+    ],
+    "questions": {
+      "both": "Is {} consumed worldwide?",
+      "neither": "Does {} come in cans?",
+      "first": "Is {} made from beans?",
+      "second": "Is Starbucks' most famous product {}?"
+    }
+  },
+  {
+    "options": [
+      "cheetahs",
+      "leopards"
+    ],
+    "questions": {
+      "both": "Are {} mammals?",
+      "neither": "Are {} herbivores?",
+      "first": "Do {} climb trees?",
+      "second": "Do {} roar?"
+    }
+  },
+  {
+    "options": [
+      "hands",
+      "feet"
+    ],
+    "questions": {
+      "both": "Are {} body parts?",
+      "neither": "Do {} grow hair?",
+      "first": "Are {} used for walking?",
+      "second": "Do {} have fingers?"
+    }
+  },
+  {
+    "options": [
+      "whales",
+      "fish"
+    ],
+    "questions": {
+      "both": "Are {} aquatic?",
+      "neither": "Do {} have fur?",
+      "first": "Do {} have scales?",
+      "second": "Do {} breathe air?"
+    }
+  },
+  {
+    "options": [
+      "shirts",
+      "shoes"
+    ],
+    "questions": {
+      "both": "Are {} items of clothing?",
+      "neither": "Can {} fly?",
+      "first": "Are {} used to cover the feet?",
+      "second": "Are {} made of leather?"
+    }
+  },
+  {
+    "options": [
+      "whales",
+      "elephants"
+    ],
+    "questions": {
+      "both": "Do {} breathe air?",
+      "neither": "Are {} insect?",
+      "first": "Are {} known for their large tusks?",
+      "second": "Do {} live in pods?"
+    }
+  },
+  {
+    "options": [
+      "Mercury",
+      "Jupiter"
+    ],
+    "questions": {
+      "both": "Does {} orbit a star?",
+      "neither": "Is {} a comet?",
+      "first": "Is {} known as the red planet?",
+      "second": "Does {} have rings?"
+    }
+  },
+  {
+    "options": [
+      "giraffes",
+      "zebras"
+    ],
+    "questions": {
+      "both": "Are {} animals?",
+      "neither": "Are {} predators?",
+      "first": "Do {} have long necks?",
+      "second": "Do {} live in herds?"
+    }
+  },
+  {
+    "options": [
+      "airplanes",
+      "trains"
+    ],
+    "questions": {
+      "both": "Do {} carry passengers?",
+      "neither": "Are {} used for space travel?",
+      "first": "Do {} fly?",
+      "second": "Are {} used in the sky?"
+    }
+  },
+  {
+    "options": [
+      "violins",
+      "pianos"
+    ],
+    "questions": {
+      "both": "Can {} be played in concerts?",
+      "neither": "Are {} electronic devices?",
+      "first": "Do {} have keys?",
+      "second": "Are {} played with a bow?"
+    }
+  },
+  {
+    "options": [
+      "cheese",
+      "bread"
+    ],
+    "questions": {
+      "both": "Is {} eaten by people?",
+      "neither": "Does {} grow on trees?",
+      "first": "Is {} a dairy product?",
+      "second": "Is {} used in baking?"
+    }
+  },
+  {
+    "options": [
+      "shark",
+      "dolphin"
+    ],
+    "questions": {
+      "both": "Are {} predators?",
+      "neither": "Do {} live in the desert?",
+      "first": "Are {} mammals?",
+      "second": "Are {} fast swimmers?"
+    }
+  },
+  {
+    "options": [
+      "red",
+      "green"
+    ],
+    "questions": {
+      "both": "Do {} have names?",
+      "neither": "Are {} objects?",
+      "first": "Are {} warm colors?",
+      "second": "Do {} appear in rainbows?"
+    }
+  },
+  {
+    "options": [
+      "France",
+      "Italy"
+    ],
+    "questions": {
+      "both": "Is {} a country?",
+      "neither": "Is {} in Asia?",
+      "first": "Is {} famous for pasta?",
+      "second": "Does {} border Germany?"
+    }
+  },
+  {
+    "options": [
+      "tigers",
+      "giraffes"
+    ],
+    "questions": {
+      "both": "Are {} animals?",
+      "neither": "Are {} cold-blooded?",
+      "first": "Are {} known for their stripes?",
+      "second": "Are {} fast runners?"
+    }
+  },
+  {
+    "options": [
+      "train",
+      "plane"
+    ],
+    "questions": {
+      "both": "Is {} a type of vehicle?",
+      "neither": "Is {} edible?",
+      "first": "Does {} fly?",
+      "second": "Does {} go in the air?"
+    }
+  },
+  {
+    "options": [
+      "cakes",
+      "ice creams"
+    ],
+    "questions": {
+      "both": "Are {} sweet?",
+      "neither": "Are {} vegetables?",
+      "first": "Are {} made of ice cream?",
+      "second": "Do {} have frosting?"
+    }
+  },
+  {
+    "options": [
+      "pianos",
+      "violins"
+    ],
+    "questions": {
+      "both": "Are {} musical instruments?",
+      "neither": "Are {} edible?",
+      "first": "Do {} have keys?",
+      "second": "Are {} played with a bow?"
+    }
+  },
+  {
+    "options": [
+      "carrots",
+      "cheese"
+    ],
+    "questions": {
+      "both": "Are {} eaten by people?",
+      "neither": "Do {} fly?",
+      "first": "Are {} dairy products?",
+      "second": "Are {} leafy greens?"
+    }
+  },
+  {
+    "options": [
+      "cheetahs",
+      "leopards"
+    ],
+    "questions": {
+      "both": "Do {} live in the jungle?",
+      "neither": "Are {} reptiles?",
+      "first": "Are {} known for speed?",
+      "second": "Are {} spotted?"
+    }
+  },
+  {
+    "options": [
+      "red",
+      "blue"
+    ],
+    "questions": {
+      "both": "Are {} used in art?",
+      "neither": "Are {} objects?",
+      "first": "Are {} warm colors?",
+      "second": "Do {} appear in sunsets?"
+    }
+  },
+  {
+    "options": [
+      "sunshine",
+      "rain"
+    ],
+    "questions": {
+      "both": "Are {} types of weather?",
+      "neither": "Are {} predictable?",
+      "first": "Do {} involve rain?",
+      "second": "Are {} cold?"
+    }
+  },
+  {
+    "options": [
+      "banana",
+      "apple"
+    ],
+    "questions": {
+      "both": "Is {} a fruit?",
+      "neither": "Does {} grow underground?",
+      "first": "Is {} green?",
+      "second": "Does {} have seeds?"
+    }
+  },
+  {
+    "options": [
+      "Mars",
+      "Jupiter"
+    ],
+    "questions": {
+      "both": "Does {} orbit the Sun?",
+      "neither": "Is {} a star?",
+      "first": "Is {} red?",
+      "second": "Does {} have rings?"
+    }
+  },
+  {
+    "options": [
+      "sharks",
+      "dolphins"
+    ],
+    "questions": {
+      "both": "Are {} found in nature?",
+      "neither": "Are {} birds?",
+      "first": "Are {} fast swimmers?",
+      "second": "Are {} gentle?"
+    }
+  },
+  {
+    "options": [
+      "shirts",
+      "shoes"
+    ],
+    "questions": {
+      "both": "Are {} worn by people?",
+      "neither": "Are {} electronic devices?",
+      "first": "Are {} worn on the upper body?",
+      "second": "Are {} used in winter?"
+    }
+  },
+  {
+    "options": [
+      "scissors",
+      "rulers"
+    ],
+    "questions": {
+      "both": "Are {} used for tasks?",
+      "neither": "Are {} edible?",
+      "first": "Are {} used for cutting?",
+      "second": "Do {} require electricity?"
+    }
+  },
+  {
+    "options": [
+      "coffee",
+      "soda"
+    ],
+    "questions": {
+      "both": "Is {} a beverage?",
+      "neither": "Is a {} living organism?",
+      "first": "Is {} fizzy?",
+      "second": "Does {} come in cans?"
+    }
+  }
+]

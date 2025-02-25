@@ -1,0 +1,506 @@
+[
+    {
+        "template": "Question: {name} has {item_1} pencils and {item_2} pens in their bag. How many items does {name} have in total?\nAnswer: {name} has ",
+        "fields": { 
+            "name": ["John", "Emma", "Liam", "Sophia"], 
+            "item_1": [5, 8, 12, 20], 
+            "item_2": [3, 10, 7, 15] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} found {item_1} coins on the ground and earned {item_2} coins doing chores. How many coins does {name} have now?\nAnswer: {name} has ",
+        "fields": { 
+            "name": ["Michael", "Olivia", "Ethan", "Ava"], 
+            "item_1": [4, 6, 9, 11], 
+            "item_2": [10, 12, 8, 14] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} baked {item_1} cookies and {item_2} muffins for the party. How many baked goods did {name} prepare?\nAnswer: {name} prepared ",
+        "fields": { 
+            "name": ["Sophia", "Daniel", "Ella", "James"], 
+            "item_1": [20, 15, 10, 25], 
+            "item_2": [8, 12, 18, 5] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} read {item_1} pages of a book in the morning and {item_2} pages in the evening. How many pages did {name} read in total?\nAnswer: {name} read ",
+        "fields": { 
+            "name": ["Lucas", "Mia", "Benjamin", "Charlotte"], 
+            "item_1": [30, 40, 25, 50], 
+            "item_2": [20, 35, 15, 45] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} planted {item_1} flowers and {item_2} trees in their garden. How many plants did {name} plant in total?\nAnswer: {name} planted ",
+        "fields": { 
+            "name": ["Jack", "Emily", "Henry", "Chloe"], 
+            "item_1": [7, 5, 9, 6], 
+            "item_2": [3, 8, 4, 10] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} bought {item_1} candies and {item_2} chocolates from the store. How many items did {name} buy in total?\nAnswer: {name} bought ",
+        "fields": { 
+            "name": ["Isabella", "Matthew", "Grace", "Andrew"], 
+            "item_1": [15, 10, 20, 25], 
+            "item_2": [10, 5, 15, 30] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} caught {item_1} butterflies and {item_2} dragonflies in the park. How many insects did {name} catch?\nAnswer: {name} caught ",
+        "fields": { 
+            "name": ["Hannah", "Oliver", "Lily", "Noah"], 
+            "item_1": [4, 6, 8, 10], 
+            "item_2": [3, 7, 5, 2] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} made {item_1} paper planes and {item_2} origami cranes. How many items did {name} make in total?\nAnswer: {name} made ",
+        "fields": { 
+            "name": ["Zoe", "William", "Amelia", "Nathan"], 
+            "item_1": [10, 12, 8, 14], 
+            "item_2": [5, 7, 6, 9] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} has {item_1} apples and {item_2} oranges. How many fruits does {name} have in total?\nAnswer: {name} has ",
+        "fields": { 
+            "name": ["Evelyn", "Liam", "Aria", "Daniel"], 
+            "item_1": [6, 4, 9, 7], 
+            "item_2": [5, 3, 8, 2] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} painted {item_1} small paintings and {item_2} large paintings. How many paintings did {name} create?\nAnswer: {name} created ",
+        "fields": { 
+            "name": ["Sophie", "Ryan", "Madison", "Alexander"], 
+            "item_1": [3, 5, 2, 7], 
+            "item_2": [2, 4, 3, 6] 
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} collected {item_1} stamps and {item_2} postcards. How many items did {name} collect in total?\nAnswer: {name} collected ",
+        "fields": {
+            "name": ["Grace", "Aiden", "Ella", "Michael"],
+            "item_1": [10, 15, 20, 5],
+            "item_2": [5, 8, 12, 10]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} borrowed {item_1} books from the library and already had {item_2} books at home. How many books does {name} have now?\nAnswer: {name} has ",
+        "fields": {
+            "name": ["Lily", "Samuel", "Sophia", "Oliver"],
+            "item_1": [3, 6, 2, 8],
+            "item_2": [7, 10, 5, 4]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} bought {item_1} packs of crayons and {item_2} markers. How many items did {name} buy in total?\nAnswer: {name} bought ",
+        "fields": {
+            "name": ["Mia", "Lucas", "Emily", "Noah"],
+            "item_1": [2, 5, 3, 4],
+            "item_2": [8, 6, 7, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} walked {item_1} kilometers in the morning and {item_2} kilometers in the evening. How many kilometers did {name} walk in total?\nAnswer: {name} walked ",
+        "fields": {
+            "name": ["Isabella", "Ethan", "Charlotte", "Henry"],
+            "item_1": [2, 4, 3, 5],
+            "item_2": [3, 6, 7, 2]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} baked {item_1} pies and {item_2} cakes for the festival. How many baked goods did {name} make?\nAnswer: {name} made ",
+        "fields": {
+            "name": ["Sophie", "Nathan", "Zoe", "Ryan"],
+            "item_1": [6, 8, 7, 5],
+            "item_2": [4, 2, 3, 6]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} drew {item_1} sketches in the morning and {item_2} in the afternoon. How many sketches did {name} draw in total?\nAnswer: {name} drew ",
+        "fields": {
+            "name": ["Liam", "Amelia", "Jack", "Evelyn"],
+            "item_1": [10, 8, 12, 15],
+            "item_2": [5, 7, 8, 10]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} sold {item_1} bracelets and {item_2} necklaces at the market. How many items did {name} sell in total?\nAnswer: {name} sold ",
+        "fields": {
+            "name": ["Benjamin", "Hannah", "Ava", "William"],
+            "item_1": [14, 18, 12, 20],
+            "item_2": [9, 7, 5, 11]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} wrote {item_1} essays and {item_2} poems during the school year. How many pieces did {name} write in total?\nAnswer: {name} wrote ",
+        "fields": {
+            "name": ["Olivia", "Alexander", "Emma", "Daniel"],
+            "item_1": [3, 5, 7, 9],
+            "item_2": [2, 6, 8, 4]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} built {item_1} sandcastles and {item_2} sculptures at the beach. How many creations did {name} make?\nAnswer: {name} made ",
+        "fields": {
+            "name": ["Charlotte", "Nathan", "Isabella", "Sophia"],
+            "item_1": [4, 3, 6, 5],
+            "item_2": [3, 5, 2, 4]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} picked {item_1} strawberries and {item_2} blueberries at the farm. How many berries did {name} pick in total?\nAnswer: {name} picked ",
+        "fields": {
+            "name": ["James", "Lily", "Michael", "Grace"],
+            "item_1": [15, 20, 25, 10],
+            "item_2": [10, 5, 8, 12]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} saved {item_1} dollars from pocket money and earned {item_2} dollars doing chores. How much money does {name} have now?\nAnswer: {name} has ",
+        "fields": {
+            "name": ["Lucas", "Mia", "Henry", "Aria"],
+            "item_1": [5, 10, 15, 20],
+            "item_2": [7, 8, 12, 18]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} folded {item_1} paper cranes and {item_2} paper frogs. How many origami pieces did {name} fold?\nAnswer: {name} folded ",
+        "fields": {
+            "name": ["Emily", "Jack", "Sophia", "Liam"],
+            "item_1": [3, 5, 7, 10],
+            "item_2": [2, 4, 6, 8]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} counted {item_1} stars in the sky and {item_2} fireflies in the garden. How many objects did {name} count?\nAnswer: {name} counted ",
+        "fields": {
+            "name": ["Hannah", "William", "Aiden", "Zoe"],
+            "item_1": [10, 12, 15, 18],
+            "item_2": [8, 6, 7, 5]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} received {item_1} letters from friends and {item_2} packages from family. How many items did {name} receive in total?\nAnswer: {name} received ",
+        "fields": {
+            "name": ["Ava", "Evelyn", "Ryan", "Benjamin"],
+            "item_1": [2, 3, 5, 7],
+            "item_2": [6, 8, 4, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} climbed {item_1} flights of stairs in the morning and {item_2} in the afternoon. How many flights did {name} climb in total?\nAnswer: {name} climbed ",
+        "fields": {
+            "name": ["Nathan", "Grace", "Ella", "Matthew"],
+            "item_1": [6, 8, 10, 12],
+            "item_2": [7, 5, 8, 10]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} cooked {item_1} dishes for breakfast and {item_2} for lunch. How many dishes did {name} cook in total?\nAnswer: {name} cooked ",
+        "fields": {
+            "name": ["Daniel", "Charlotte", "Lucas", "Olivia"],
+            "item_1": [2, 3, 4, 5],
+            "item_2": [6, 7, 8, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} bought {item_1} oranges from one market and {item_2} from another. How many oranges does {name} have in total?\nAnswer: {name} has ",
+        "fields": {
+            "name": ["Sophia", "Henry", "Ella", "Liam"],
+            "item_1": [10, 25, 30, 12],
+            "item_2": [15, 20, 18, 10]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} had {item_1} blocks in their toy box and found {item_2} more under the couch. How many blocks does {name} have now?\nAnswer: {name} has ",
+        "fields": {
+            "name": ["Ava", "William", "Charlotte", "Ethan"],
+            "item_1": [8, 14, 22, 30],
+            "item_2": [6, 12, 18, 25]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} scored {item_1} goals in the first half of the game and {item_2} in the second half. How many goals did {name} score in total?\nAnswer: {name} scored ",
+        "fields": {
+            "name": ["Mia", "Oliver", "Emily", "Benjamin"],
+            "item_1": [1, 2, 3, 4],
+            "item_2": [2, 3, 1, 5]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} received {item_1} chocolates for their birthday and {item_2} more from their friend. How many chocolates does {name} have now?\nAnswer: {name} has ",
+        "fields": {
+            "name": ["Lucas", "Isabella", "Zoe", "James"],
+            "item_1": [12, 18, 24, 30],
+            "item_2": [8, 6, 10, 12]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} attended {item_1} piano lessons last month and {item_2} this month. How many lessons did {name} attend in total?\nAnswer: {name} attended ",
+        "fields": {
+            "name": ["Sophia", "Nathan", "Grace", "Aiden"],
+            "item_1": [3, 5, 7, 9],
+            "item_2": [2, 4, 6, 8]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} spent {item_1} minutes studying math and {item_2} minutes studying science. How many minutes did {name} study in total?\nAnswer: {name} studied ",
+        "fields": {
+            "name": ["Aria", "Michael", "Chloe", "Jack"],
+            "item_1": [30, 45, 20, 60],
+            "item_2": [40, 35, 25, 50]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} played {item_1} levels in a video game yesterday and {item_2} levels today. How many levels did {name} complete in total?\nAnswer: {name} completed ",
+        "fields": {
+            "name": ["Noah", "Amelia", "Hannah", "Ryan"],
+            "item_1": [5, 8, 12, 15],
+            "item_2": [10, 7, 9, 6]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} made {item_1} paper airplanes in the morning and {item_2} in the afternoon. How many airplanes did {name} make in total?\nAnswer: {name} made ",
+        "fields": {
+            "name": ["Olivia", "Evelyn", "Matthew", "Daniel"],
+            "item_1": [6, 12, 9, 4],
+            "item_2": [8, 5, 10, 7]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} brought {item_1} bottles of water and {item_2} bottles of juice for the picnic. How many bottles did {name} bring in total?\nAnswer: {name} brought ",
+        "fields": {
+            "name": ["Lily", "Sophie", "Henry", "Ella"],
+            "item_1": [5, 8, 10, 3],
+            "item_2": [7, 6, 4, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} saw {item_1} cars on the highway and {item_2} trucks. How many vehicles did {name} see in total?\nAnswer: {name} saw ",
+        "fields": {
+            "name": ["Emma", "Alexander", "Zoe", "William"],
+            "item_1": [25, 30, 18, 12],
+            "item_2": [15, 20, 10, 8]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} filled {item_1} pages of their notebook in the morning and {item_2} in the evening. How many pages did {name} fill in total?\nAnswer: {name} filled ",
+        "fields": {
+            "name": ["Sophia", "Liam", "Olivia", "Noah"],
+            "item_1": [5, 10, 7, 12],
+            "item_2": [8, 6, 5, 15]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} caught {item_1} fish in the lake and {item_2} in the river. How many fish did {name} catch in total?\nAnswer: {name} caught ",
+        "fields": {
+            "name": ["Aiden", "Mia", "Henry", "Charlotte"],
+            "item_1": [4, 6, 8, 10],
+            "item_2": [5, 7, 3, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} planted {item_1} flowers in the backyard and {item_2} in the front yard. How many flowers did {name} plant in total?\nAnswer: {name} planted ",
+        "fields": {
+            "name": ["Lucas", "Emily", "Sophia", "Jack"],
+            "item_1": [6, 8, 7, 9],
+            "item_2": [10, 5, 12, 6]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} baked {item_1} cookies and {item_2} muffins for the party. How many items did {name} bake in total?\nAnswer: {name} baked ",
+        "fields": {
+            "name": ["Zoe", "Ethan", "Grace", "Benjamin"],
+            "item_1": [12, 15, 20, 18],
+            "item_2": [10, 8, 5, 7]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} cleaned {item_1} windows on the first floor and {item_2} on the second floor. How many windows did {name} clean in total?\nAnswer: {name} cleaned ",
+        "fields": {
+            "name": ["Lily", "William", "Amelia", "Oliver"],
+            "item_1": [3, 5, 8, 4],
+            "item_2": [6, 7, 9, 10]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} sold {item_1} cups of lemonade and {item_2} cups of iced tea at their stand. How many cups did {name} sell in total?\nAnswer: {name} sold ",
+        "fields": {
+            "name": ["Ava", "Daniel", "Evelyn", "Michael"],
+            "item_1": [8, 12, 15, 9],
+            "item_2": [10, 14, 7, 11]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} collected {item_1} leaves in the park and {item_2} at the beach. How many leaves did {name} collect in total?\nAnswer: {name} collected ",
+        "fields": {
+            "name": ["Sophie", "Ryan", "Isabella", "Alexander"],
+            "item_1": [14, 10, 18, 20],
+            "item_2": [12, 5, 7, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} painted {item_1} pictures in art class and {item_2} at home. How many pictures did {name} paint in total?\nAnswer: {name} painted ",
+        "fields": {
+            "name": ["Emma", "Nathan", "Aria", "James"],
+            "item_1": [2, 3, 5, 6],
+            "item_2": [4, 6, 8, 10]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} fed {item_1} birds in the park and {item_2} squirrels. How many animals did {name} feed in total?\nAnswer: {name} fed ",
+        "fields": {
+            "name": ["Liam", "Hannah", "Zoe", "Lucas"],
+            "item_1": [5, 7, 10, 12],
+            "item_2": [3, 8, 9, 6]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} picked {item_1} green apples and {item_2} red apples from the orchard. How many apples did {name} pick in total?\nAnswer: {name} picked ",
+        "fields": {
+            "name": ["Mia", "Henry", "Grace", "Oliver"],
+            "item_1": [10, 20, 25, 30],
+            "item_2": [15, 18, 12, 22]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} found {item_1} seashells in the morning and {item_2} in the afternoon. How many seashells did {name} find in total?\nAnswer: {name} found ",
+        "fields": {
+            "name": ["Ella", "Mason", "Sophia", "Liam"],
+            "item_1": [5, 8, 12, 15],
+            "item_2": [7, 6, 10, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} bought {item_1} pencils and {item_2} pens from the store. How many items did {name} buy in total?\nAnswer: {name} bought ",
+        "fields": {
+            "name": ["Jack", "Amelia", "Grace", "Ethan"],
+            "item_1": [10, 6, 8, 12],
+            "item_2": [5, 7, 4, 6]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} picked {item_1} strawberries in one basket and {item_2} in another. How many strawberries did {name} pick in total?\nAnswer: {name} picked ",
+        "fields": {
+            "name": ["Chloe", "Nathan", "Zoe", "Ryan"],
+            "item_1": [20, 15, 25, 18],
+            "item_2": [12, 10, 15, 14]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} received {item_1} birthday cards from friends and {item_2} from family. How many cards did {name} receive in total?\nAnswer: {name} received ",
+        "fields": {
+            "name": ["Ava", "Michael", "Olivia", "Lucas"],
+            "item_1": [6, 8, 7, 5],
+            "item_2": [4, 5, 8, 6]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} read {item_1} pages of a book in the morning and {item_2} pages in the evening. How many pages did {name} read in total?\nAnswer: {name} read ",
+        "fields": {
+            "name": ["Sophia", "Oliver", "Isabella", "William"],
+            "item_1": [10, 15, 20, 12],
+            "item_2": [8, 5, 10, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} ate {item_1} slices of pizza at lunch and {item_2} more at dinner. How many slices did {name} eat in total?\nAnswer: {name} ate ",
+        "fields": {
+            "name": ["Mia", "Benjamin", "Emily", "James"],
+            "item_1": [2, 3, 4, 5],
+            "item_2": [1, 2, 3, 4]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} saw {item_1} birds on one tree and {item_2} on another. How many birds did {name} see in total?\nAnswer: {name} saw ",
+        "fields": {
+            "name": ["Hannah", "Evelyn", "Matthew", "Zoe"],
+            "item_1": [8, 6, 10, 12],
+            "item_2": [5, 7, 4, 9]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} delivered {item_1} packages in the morning and {item_2} in the afternoon. How many packages did {name} deliver in total?\nAnswer: {name} delivered ",
+        "fields": {
+            "name": ["Daniel", "Lily", "Henry", "Emma"],
+            "item_1": [15, 20, 12, 18],
+            "item_2": [10, 8, 14, 7]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} added {item_1} scoops of ice cream to one bowl and {item_2} to another. How many scoops did {name} add in total?\nAnswer: {name} added ",
+        "fields": {
+            "name": ["Ella", "Sophia", "Aiden", "Grace"],
+            "item_1": [3, 2, 4, 5],
+            "item_2": [2, 3, 1, 2]
+        },
+        "formula": "{item_1} + {item_2}"
+    },
+    {
+        "template": "Question: {name} packed {item_1} sandwiches and {item_2} drinks for a picnic. How many items did {name} pack in total?\nAnswer: {name} packed ",
+        "fields": {
+            "name": ["Olivia", "Mason", "Charlotte", "Jack"],
+            "item_1": [10, 8, 6, 12],
+            "item_2": [7, 5, 8, 6]
+        },
+        "formula": "{item_1} + {item_2}"
+    }
+]

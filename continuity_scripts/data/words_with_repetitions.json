@@ -1,0 +1,1202 @@
+[
+  {
+    "word": "mall",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 4
+  },
+  {
+    "word": "drill",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "tram",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 5
+  },
+  {
+    "word": "bike",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 5
+  },
+  {
+    "word": "apple",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "truck",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 5
+  },
+  {
+    "word": "eye",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 3
+  },
+  {
+    "word": "cow",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 4
+  },
+  {
+    "word": "couch",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 3
+  },
+  {
+    "word": "pear",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "coat",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 3
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "axe",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "cow",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 4
+  },
+  {
+    "word": "farm",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 5
+  },
+  {
+    "word": "cat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 3
+  },
+  {
+    "word": "green",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 3
+  },
+  {
+    "word": "coat",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 4
+  },
+  {
+    "word": "stool",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "farm",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 5
+  },
+  {
+    "word": "wrench",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "axe",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "shirt",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 4
+  },
+  {
+    "word": "ant",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "chair",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "knife",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "bed",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "grape",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "lime",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "lime",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "hammer",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "shoe",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 5
+  },
+  {
+    "word": "lemon",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "pink",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 5
+  },
+  {
+    "word": "white",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 3
+  },
+  {
+    "word": "bench",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "stool",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "bee",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "foot",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 4
+  },
+  {
+    "word": "cider",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 5
+  },
+  {
+    "word": "shelf",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "white",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 4
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "lemon",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "shelf",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "wine",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 3
+  },
+  {
+    "word": "owl",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 3
+  },
+  {
+    "word": "bed",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 3
+  },
+  {
+    "word": "kiwi",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "owl",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "chair",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "stool",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 3
+  },
+  {
+    "word": "beach",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 4
+  },
+  {
+    "word": "pear",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "bench",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "lake",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 5
+  },
+  {
+    "word": "ear",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 3
+  },
+  {
+    "word": "cow",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "water",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 4
+  },
+  {
+    "word": "green",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 4
+  },
+  {
+    "word": "plane",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "cat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 3
+  },
+  {
+    "word": "hammer",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "train",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 4
+  },
+  {
+    "word": "pliers",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "cat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 4
+  },
+  {
+    "word": "stool",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "coffee",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 3
+  },
+  {
+    "word": "hand",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 5
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "saw",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "pink",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 4
+  },
+  {
+    "word": "lime",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "tea",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 5
+  },
+  {
+    "word": "ant",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 4
+  },
+  {
+    "word": "mango",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "shelf",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 3
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "table",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "glove",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 4
+  },
+  {
+    "word": "belt",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 5
+  },
+  {
+    "word": "sofa",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "pliers",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "gray",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 4
+  },
+  {
+    "word": "green",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 3
+  },
+  {
+    "word": "lip",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 5
+  },
+  {
+    "word": "farm",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 4
+  },
+  {
+    "word": "rat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "kiwi",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "belt",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 4
+  },
+  {
+    "word": "wrench",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "cat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 3
+  },
+  {
+    "word": "park",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 4
+  },
+  {
+    "word": "level",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "axe",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "lime",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "foot",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 3
+  },
+  {
+    "word": "mango",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "kiwi",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "beach",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 5
+  },
+  {
+    "word": "beach",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 4
+  },
+  {
+    "word": "toe",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 4
+  },
+  {
+    "word": "lip",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 5
+  },
+  {
+    "word": "ant",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "dog",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "table",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "axe",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "coat",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 3
+  },
+  {
+    "word": "home",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 5
+  },
+  {
+    "word": "belt",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 4
+  },
+  {
+    "word": "toe",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 4
+  },
+  {
+    "word": "drill",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "home",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 3
+  },
+  {
+    "word": "couch",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "hill",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 4
+  },
+  {
+    "word": "stool",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 3
+  },
+  {
+    "word": "belt",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 3
+  },
+  {
+    "word": "peach",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "mango",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "dog",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 4
+  },
+  {
+    "word": "hammer",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "shelf",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "beer",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 5
+  },
+  {
+    "word": "saw",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "leg",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 3
+  },
+  {
+    "word": "ear",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 4
+  },
+  {
+    "word": "mango",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "lime",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "wrench",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 4
+  },
+  {
+    "word": "grape",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "coffee",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 4
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "sofa",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "city",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 3
+  },
+  {
+    "word": "boat",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 4
+  },
+  {
+    "word": "grape",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "tea",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 3
+  },
+  {
+    "word": "yellow",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 5
+  },
+  {
+    "word": "cap",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 5
+  },
+  {
+    "word": "farm",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 5
+  },
+  {
+    "word": "ear",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 3
+  },
+  {
+    "word": "tie",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 4
+  },
+  {
+    "word": "bike",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "red",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 3
+  },
+  {
+    "word": "jaw",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 4
+  },
+  {
+    "word": "coffee",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 5
+  },
+  {
+    "word": "jaw",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 4
+  },
+  {
+    "word": "sock",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 5
+  },
+  {
+    "word": "tram",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "desk",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "plane",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 5
+  },
+  {
+    "word": "bat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 3
+  },
+  {
+    "word": "city",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 5
+  },
+  {
+    "word": "cow",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "shelf",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "car",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "kiwi",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "shop",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 3
+  },
+  {
+    "word": "hammer",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "stool",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 5
+  },
+  {
+    "word": "bus",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "van",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 4
+  },
+  {
+    "word": "cat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "drawer",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 4
+  },
+  {
+    "word": "level",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "pliers",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "brown",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 4
+  },
+  {
+    "word": "coat",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 5
+  },
+  {
+    "word": "berry",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "eye",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 3
+  },
+  {
+    "word": "cat",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "bus",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "lime",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 3
+  },
+  {
+    "word": "jaw",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 3
+  },
+  {
+    "word": "chisel",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 5
+  },
+  {
+    "word": "yellow",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 5
+  },
+  {
+    "word": "couch",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 3
+  },
+  {
+    "word": "glove",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 3
+  },
+  {
+    "word": "spade",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "knife",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "tie",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 5
+  },
+  {
+    "word": "knife",
+    "category": "tool",
+    "category_with_article": "a tool",
+    "repetitions": 3
+  },
+  {
+    "word": "home",
+    "category": "place",
+    "category_with_article": "a place",
+    "repetitions": 3
+  },
+  {
+    "word": "pear",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 4
+  },
+  {
+    "word": "apple",
+    "category": "fruit",
+    "category_with_article": "a fruit",
+    "repetitions": 5
+  },
+  {
+    "word": "lip",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 5
+  },
+  {
+    "word": "bike",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "green",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 3
+  },
+  {
+    "word": "hat",
+    "category": "clothing",
+    "category_with_article": "a clothing",
+    "repetitions": 5
+  },
+  {
+    "word": "pig",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 3
+  },
+  {
+    "word": "plane",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "jaw",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 5
+  },
+  {
+    "word": "plane",
+    "category": "vehicle",
+    "category_with_article": "a vehicle",
+    "repetitions": 3
+  },
+  {
+    "word": "yellow",
+    "category": "color",
+    "category_with_article": "a color",
+    "repetitions": 3
+  },
+  {
+    "word": "nose",
+    "category": "body part",
+    "category_with_article": "a body part",
+    "repetitions": 5
+  },
+  {
+    "word": "fox",
+    "category": "animal",
+    "category_with_article": "an animal",
+    "repetitions": 5
+  },
+  {
+    "word": "desk",
+    "category": "furniture",
+    "category_with_article": "a furniture",
+    "repetitions": 3
+  },
+  {
+    "word": "wine",
+    "category": "drink",
+    "category_with_article": "a drink",
+    "repetitions": 5
+  }
+]
