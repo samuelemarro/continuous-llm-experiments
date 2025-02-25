@@ -13,9 +13,13 @@ from utils import get_tracked_tokens, add_results, plot_results
 
 
 
-def run_counting_experiment(model, tokenizer, base_sentence, select_end, shrink_start, shrink_end, interesting_outputs, save_path, xlabel, legend=False, num_samples=100, select_start=None):
+def run_counting_experiment(model, tokenizer, base_sentence, select_end, shrink_start, shrink_end, interesting_outputs, save_path, xlabel, legend=False, num_samples=100, select_start=None, raise_on_same_index=False, raise_on_different_index=False):
+    if raise_on_different_index and raise_on_same_index:
+        raise ValueError('raise_on_same_index and raise_on_different_index are mutually exclusive')
+    
     tokenized = tokenizer(base_sentence, return_tensors='pt')
     detokenized = [tokenizer.decode(x, skip_special_tokens=True) for x in tokenized['input_ids'][0]]
+
     print(detokenized)
 
     start_position = 0
@@ -67,7 +71,13 @@ def run_counting_experiment(model, tokenizer, base_sentence, select_end, shrink_
 
     if start_index == -1 or end_index == -1:
         raise ValueError('Shrink tokens not found')
+
+    if raise_on_same_index and start_index == end_index:
+        raise ValueError('Shrink tokens are the same')
     
+    if raise_on_different_index and start_index != end_index:
+        raise ValueError('Shrink tokens are different')
+
     print(start_index, end_index)
     print(detokenized[start_index:end_index + 1])
 
