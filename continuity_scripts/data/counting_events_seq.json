@@ -1,0 +1,802 @@
+[
+    {
+        "sentence": "Tutorial: How to Clean Chicken Livers\n\n- Lay out the livers.\n- Look for connective tissue.\n- Trim the meat away from the connective tissue.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Restore Shine to Wrought Iron Furniture\n\n- Make up a mixture of 1 tablespoon of baking soda with 1 liter (0.3 US gal) of water.\n- Sponge the wrought-iron furniture with this mixture.\n- Allow to dry.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Draft a Thesis Proposal\n\n- Choose what the main sections of your proposal will address.\n- Create subtopics for each main section.\n- Add other information you will need in your final proposal.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Dispose of Dry Ice Safely\n\n- Wear insulated gloves to handle dry ice.\n- Place dry ice in an open, well-ventilated area to sublimate.\n- Let the dry ice sit for at least 1 day until it is completely sublimated.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Prepare Saffron\n\n- Measure the saffron threads.\n- Crush the threads.\n- Add to your dish.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Draw Selena from Harvest Moon\n\n- Find reference images.\n- Simplify the image.\n- Measure the height in terms of the head.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Convert an Improper Fraction to Percent\n\n- Multiply the fraction by 100.\n- Divide the numerator by the denominator.\n- Add a percent sign.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Calculate Covariance\n\n- Search the Internet for covariance calculators.\n- Enter your data.\n- Calculate your results.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Make a Den for a Mother Dog and Her Puppies\n\n- Drape a blanket over the den.\n- Provide plenty of materials for a nest.\n- Place pillows and blankets inside the den.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Make Mutton and Lotus Stem Curry\n\n- Clean and wash the mutton under running water.\n- Place the mutton pieces in a large frying pan.\n- Add turmeric powder to the mixture.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Find a Star\n\n- Find a major celestial object as a reference point.\n- Move in increments of 10 degrees by making a fist.\n- Hold up a pinky finger to make 1\u00b0 adjustments.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Draw 3D Letters\n\n- Draw the stick figure of the letter W bubble letter.\n- Add the outline sketches for the bubble letter and fill in the basic color.\n- Add the highlight and shadows for the 3D effect.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Analyze Yourself\n\n- Understand values.\n- Identify your values.\n- Group your core values.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Manage Student Stress with Meditation\n\n- Perform a mini breathing meditation.\n- Do a relaxing breath exercise.\n- Count your breath.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Remove Gorilla Glue from Wood\n\n- Use a paint scraper to remove most of the glue.\n- Use a chisel to remove smaller amounts of glue.\n- Sand off the remaining glue.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Make Beard Oil\n\n- Mix coconut oil and jojoba oil in a bottle.\n- Add sandalwood and supplemental essential oils to the base.\n- Stir the oils together in their container.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Take Care of a Japanese Bobtail\n\n- Place the litterbox somewhere your cat will want to use it.\n- Empty the litterbox.\n- Clean the litterbox.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Play Games on a Trampoline\n\n- Have 3-6 people.\n- Pick one person to sit in the middle with their eyes closed and count to ten out loud.\n- The person in the middle must crawl or roll with their eyes closed to try to touch someone on the trampoline.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Get Lice Off Clothes\n\n- Gather the clothes.\n- Machine wash your clothes.\n- Take the clothes to the dry cleaners.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Clean a Limestone Fireplace\n\n- Place towels at the foot of the fireplace.\n- Vacuum the fireplace.\n- Wipe the fireplace down with dry, microfiber cloth.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Build an Underground House\n\n- Develop detailed structural plans.\n- Design your house.\n- Include an entrance and exit in your design.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Catch a Chicken\n\n- Consider waiting until Nighttime to catch your chicken.\n- Approach the chicken quietly with a flashlight.\n- Grab the chicken.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Relieve Urinary Tract Infections in Cats\n\n- Take your cat to a veterinarian.\n- Have tests ordered.\n- Give your cat medication.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Write a Friendly Letter\n\n- Wrap it up.\n- Write a closing.\n- Consider including a postscript.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Remove a Dent from a Stainless Steel Refrigerator\n\n- Blow hot air.\n- Use dry ice.\n- Blow cold condensed air on it.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Condition Your Horse for Endurance Riding\n\n- Get a stethoscope from a local drugstore or your veterinarian.\n- Put the stethoscope behind your horse\u2019s left elbow to check the pulse.\n- Take your horse\u2019s pulse at set intervals during training and recovery.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Make Milk Rice\n\n- Reduce the heat to low and add the milk.\n- Simmer the rice and milk for ten minutes.\n- Remove the pot from heat.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Spray Stucco\n\n- Fill the hopper with stucco mix.\n- Spray the stucco mix on the target structure.\n- Level out the stucco coating with a trowel and allow the stucco to set.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Get a Gun License in Minnesota\n\n- Visit a licensed handgun dealer.\n- Complete an application form.\n- Await a decision on the background check.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Make Your CV Sound More Impressive\n\n- Tailor the resume to the job.\n- Break the resume into subsections.\n- Prioritize key information.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Make Diabetic\u2010Friendly Food for the Holidays\n\n- Mix the Greek yogurt, sugar, pistachios, and cranberries.\n- Spread the mixture evenly on a baking sheet.\n- Freeze the bark.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Give a Candy Flavored Kiss\n\n- Buy a candy flavored lip gloss or chapstick.\n- Apply the lip gloss to your lips.\n- Kiss your partner!.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Make London Broil\n\n- Mix your paprika, salt, pepper and optional ingredients together.\n- Massage spices onto both sides of your London Broil.\n- Let your London Broil stand at room temperature for 15 minutes.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Wash Avocados\n\n- Place the avocados under cool or lukewarm running water.\n- Clean dirt and other residues off the avocado skins with a vegetable brush.\n- Dry the avocados thoroughly.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Buy a Weapon in Red Dead Redemption\n\n- Pause the game and choose \"Map\" from the menu.\n- Scroll around the map to find a town.\n- Zoom in to a town and look for a gun shop.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Eat Raw Broccoli\n\n- Clean the head of broccoli with cold water.\n- Dry off the broccoli head with a paper towel.\n- Use a sharp knife to cut the florets from the main stem of the broccoli.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Read a Knitting Pattern\n\n- Decide what you want to knit.\n- Search for a knitting pattern.\n- Gather supplies according to the knitting pattern.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Write Introductions\n\n- Establish your topic by using a clear, concise statement.\n- Include your main points to give your readers guidance.\n- Place your main ideas at the end of your introduction.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Clean a Sharpening Stone\n\n- Coat your sharpening stone with a layer of WD-40.\n- Scour the surface gently with a piece of fine steel wool to remove grime.\n- Wipe the surface of your sharpening stone with a damp cloth or paper towel.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Become a Volunteer Firefighter\n\n- Get serious.\n- Research the role.\n- Make sure that you have enough time.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 3
+    },
+    {
+        "sentence": "Tutorial: How to Do a Bridge Exercise\n\n- Lie flat on your back with your knees bent and your feet hip distance apart.\n- Press your weight into your feet.\n- Interlock your hands as you move your torso and lower back up further.\n- Release carefully.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Create a Lasting Tradition for Baby's First Christmas\n\n- On your baby's first Christmas, take them to get a picture taken with Santa.\n- Each year, bring your child to the mall to take a picture with Santa Claus.\n- Once your amount of photos starts to add up, put the photos in a special \"Santa Album\".\n- Once your child becomes a teenager (or at whatever age your child stops wanting to take pictures with Santa), present your child with the photo album of all their pictures with Santa.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Draw 3D Letters\n\n- Draw the stick figure of the letter M.\n- Add the outline sketches for the bubble letter M.\n- Fill in the color.\n- Smudge the colors to show the 3D effect for letter M.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Diabetic\u2010Friendly Food for the Holidays\n\n- Place all ingredients in a large pot.\n- Simmer for 30 minutes.\n- Drain the veggies.\n- Mash the veggies.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Thumb Wrestle\n\n- Prepare the wrestling position.\n- Have the thumbs bow.\n- Begin the wrestle.\n- Pin down the thumb.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Play Funk Bass\n\n- Practice with a drummer, backing track, or metronome.\n- Make sure that you always hit a big note on the one.\n- Hit the one and the three in each bar to build a basic groove.\n- Fill in the gaps between the one and three to build out your lick.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Draw 3D Letters\n\n- Draw the stick figure for the letter K.\n- Add the outlines for the bubble on the letter K.\n- Fill in the basic color.\n- Add the highlight and shadows.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Orange Brandy Butter\n\n- Place the butter in a mixing bowl and beat using an electric hand beater, or a whisk, until light and fluffy.\n- Add the icing sugar and mix thoroughly to form a smooth paste.\n- Add the orange peel, juice and brandy to the mixture.\n- Dollop the orange brandy butter into a serving or storage container in advance of the event.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Fried Pork\n\n- Heat the vegetable oil in a large skillet over medium-high heat.\n- Add the pork, soy sauce, and sugar to the skillet.\n- Mix in the sesame oil, green onion, and rice wine.\n- Remove the skillet from heat.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Eat Creeping Charlie\n\n- Submerge creeping charlie in a bowl of water.\n- Let the creeping charlie soak.\n- Remove your creeping charlie from the bowl.\n- Blot the leaves dry.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Polish Jewelry\n\n- Soak in warm water and dishwashing soap.\n- Scrub with a soft toothbrush.\n- Rinse in warm water.\n- Submerge the gold in a mixture of water and ammonia.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make a Child's Smock from an Old Business Shirt\n\n- Remove the collar and cuffs from the shirt.\n- Fold over the material at both the cuffs and collar areas and hem using running stitch.\n- Thread elastic through the hemmed areas.\n- Give to your child for art class.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Remove Bicycle Handlebar Grips\n\n- Gather the supplies you will need: a screwdriver and lemon furniture polish.\n- Spray the furniture polish onto the screwdriver.\n- Move the old grip around and around until the grip is loosened from the handlebar.\n- Pull it to remove the grip.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Cottage Cheese Cookies\n\n- Add the flour and cold butter in a food processor.\n- Pulse the ingredients until the flour and butter resemble coarse crumbs.\n- Add the cottage cheese to the food processor and pulse until it\u2019s combined.\n- Cover the dough in plastic wrap and chill it for 1 hour in the refrigerator.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Change a Diaper\n\n- Position the clean diaper under the baby.\n- Secure the diaper.\n- Store the dirty cloth diaper.\n- Clean your hands.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Work as a Freelance Journalist\n\n- Think of unique article topics.\n- Pitch often.\n- Doublecheck your pitch for grammar and spelling.\n- Create a catchy article title.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Draw 3D Letters\n\n- Draw the stick figure of the letter S.\n- Add the outline sketches for the bubble letter S.\n- Fill in the basic color.\n- Add the highlight and shadows for the 3D effect on the bubble letter S.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Do Leg Lifts With an Exercise Ball\n\n- Get on your knees and roll your chest forward over the ball.\n- Lift your legs off of the floor and find your center of gravity.\n- Point your toes out away from you and lift your legs.\n- Lower your legs back to their original position.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Crochet Shawls\n\n- Make your chain.\n- Crochet along the chain using your stitch of choice.\n- Crochet back and forth without increasing or decreasing your stitch.\n- Fasten off.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Clean a Tangle Teezer\n\n- Scrub the Tangle Teezer with an old toothbrush for a thorough clean.\n- Rinse off any remaining soap or residue using warm water.\n- Shake the Tangle Teezer back and forth to get rid of excess water.\n- Dry the brush with a clean towel.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Write a Customer Appreciation Letter\n\n- Address the customer by name.\n- Express the reason for appreciation.\n- Make reference to future interactions.\n- End the letter with a personal sign off.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Clean Dog Bedding With Vinegar\n\n- Fill the tub.\n- Submerge the bed.\n- Rinse the bed.\n- Dry the bed.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Greek Briam\n\n- Heat olive oil in a large flame-proof baking dish or casserole.\n- Add garlic and stir fry until fragrant, then add the wine.\n- Bake in a 180C / 385F preheated oven for 45-60 minutes or until  vegetables are tender.\n- Serve hot, with feta crumbled coarsely on top.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Clean a Mop Sponge\n\n- Make up a solution of 1/4 of a cup of salt per 1 liter (0.3 US gal) /quart of hot water.\n- Place the mop sponge into the water.\n- Leave to soak overnight.\n- Drain the salt water out the next morning.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Freeze Garlic\n\n- Remove the garlic cloves from the bulb.\n- Either leave as a clove or chop into small pieces.\n- Wrap the cloves or chopped garlic in plastic wrap or foil.\n- Freeze.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Address College Recommendation Letters\n\n- Use a letterhead envelope.\n- Add the recipient's address.\n- Seal the envelope.\n- Mail the letter on time.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Get Pupils to Behave in Class\n\n- Acquire ice lolly sticks.\n- Write a name of your students on one side of the stick.\n- Place the ice lolly sticks in a cup.\n- During the lesson, instead of making them put their hands up, pick a name from random out of the cup and ask the person a question.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make an Octagon\n\n- Determine the side length of your octagon.\n- Use a ruler to draw a line of the length you decided upon.\n- Using a protractor, mark an angle 135 relative to your line.\n- Continue creating lines at 135 angles to the last line.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Play Strip Twister\n\n- Divide into teams.\n- Prepare to play.\n- Play the game.\n- Win the game.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Draw 3D Letters\n\n- Draw the stick figure for the letter O.\n- Add the outline sketches for the bubble letter O.\n- Fill in the basic color.\n- Add the highlight and shadow for the 3D effect.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Cauliflower Cheese\n\n- Place the cauliflower in a baking dish.\n- Spread the cheese sauce over the cauliflower.\n- Mix the breadcrumbs and cheese together and add it to the top.\n- Bake for approximately 30 minutes.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Weave on a Loom\n\n- Select a warping thread.\n- Begin the warp.\n- Continue looping the thread or yarn.\n- Complete the warp.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Copy Someone's Handwriting\n\n- Find a source document to trace.\n- Place the source document over a light source.\n- Trace over their writing.\n- Attempt to recreate the handwriting without a source document.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make a Birthday Cake for Small Rodents\n\n- Mix the flour and berry juice in a bowl.\n- Scoop small spoonfuls on a baking sheet.\n- Put the biscuits into the oven.\n- Remove and cool on a wire cooling rack.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Chili Sauce\n\n- Put all of the ingredients into a saucepan.\n- Turn the burner to medium and bring the sauce to a simmer.\n- Simmer the uncovered sauce for 20 minutes.\n- Cool the sauce to room temperature.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Train Your First Falcon\n\n- Use a lure that resembles the game you intend to hunt.\n- Start by wiggling the lure a short distance away from your bird.\n- Increase the chase distance gradually.\n- Stop baiting the lure once your bird chases it reliably.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Calculate Amount of Paint to Paint a Room\n\n- Grab a paper, pencil, and a measuring tape.\n- Measure the height and length of each wall.\n- Multiply your heights and lengths to get the square footage, then convert to inches.\n- Add all of your square footages together to find the total.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Measure Torso Length\n\n- Grab your flexible tape measure.\n- Place the tape measure on one shoulder in the front.\n- Put the tape measure through your legs to go up your back.\n- Return to the starting point to take the measurement.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Make Salsa\n\n- Assemble the ingredients and items needed to make the salsa.\n- Combine all of the ingredients in a large bowl.\n- Cover the bowl.\n- Serve.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Refinish Furniture\n\n- Select the right piece.\n- Make a refinishing plan.\n- Buy refinishing supplies.\n- Remove the furniture's hardware.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 4
+    },
+    {
+        "sentence": "Tutorial: How to Walk to front door and open.\n\n- Get out of bed.\n- Put on clothes.\n- Put on shoes.\n- Face bedroom door.\n- Walk into the hallway.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to make potato soup\n\n- Find the recipe online.\n- Read the recipe.\n- Gather the ingredients.\n- Put together the ingredients.\n- Cook up the meal.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to Use a French Press or Cafetiere\n\n- Select your tea.\n- Boil your water.\n- Add the ingredients.\n- Wait.\n- Finish your cup of tea.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to flip a car\n\n- Put on protective gear.\n- Start the car.\n- Drive to somewhere the road is straight and long.\n- Drive down the road and pick up speed.\n- Steer sharply to one side.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to play the violin\n\n- Find the violin case.\n- Bring the violin case to a table.\n- Open the violin case.\n- Get out the bow.\n- Put the bow on the strings.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to impress everyone at the school dance\n\n- Purchase aweome outfit.\n- Dress in an awesome outfit.\n- Go to the dance.\n- Walk into the dance.\n- Dance to the music.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to deposit money into a savings account\n\n- Walk into the bank.\n- Open up a savings account.\n- Sign the account paperwork.\n- Give money to the clerk to be deposited.\n- Wait for the teller to run the deposit.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to Adjust Kitchen Cabinet Doors\n\n- Open the cabinet door and locate the screws used for aligning the door.\n- Use the horizontal adjusting screw to adjust a door side to side.\n- Adjust a door up or down with the vertical adjustable cupboard screws.\n- Adjust the angle of a door by turning 1 of the adjustable cupboard screws.\n- Close the cabinet doors to check the alignment.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to gather building tools\n\n- Get into the car.\n- Drive to the local tool depot.\n- Pick out the proper tools.\n- Take tools to the register.\n- Drive tools back home.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to Bake a Simple Cheesecake\n\n- Prepare the pan.\n- Blend the crust ingredients.\n- Press the crust into the pan.\n- Bake the crust.\n- Reduce the oven temperature.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to ride a large roller coaster\n\n- Go to the amusement park.\n- Buy tickets for the park.\n- Find the roller coaster.\n- Wait in line for the roller coaster.\n- Get strapped into the roller coaster.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to make an impression on a girl at school\n\n- Buy the girl presents.\n- Dress well to school.\n- Talk to the girl.\n- Present chocolate to the girl.\n- Buy the girl chocolate.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to Convert MPG to Liters per 100km\n\n- Determine whether you are working with imperial or US gallons.\n- Set up a ratio for converting miles per gallon to kilometers per gallon.\n- Set up a ratio converting kilometers per gallon to kilometers per liter.\n- Calculate the rate of liters per 1 kilometer.\n- Calculate the rate of liters per 100 kilometers.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to take a train trip across the country\n\n- Plan an itinerary.\n- Buy a train ticket.\n- Pack luggage bags.\n- Drive to the train station.\n- Board the train.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to have an exciting adventure\n\n- Get in the car.\n- Drive to the mountains.\n- Park the car.\n- Unpack the supplies.\n- Put on the backpack.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to Fix Your Credit\n\n- Get a copy of all three credit reports.\n- Compare your credit report with your own records.\n- Write a letter to the appropriate credit bureau disputing any errors.\n- Mail your letter and supporting documentation to the credit bureau.\n- Follow up to make sure the error is corrected.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to learn a different language\n\n- Go to google.com.\n- Search for language courses.\n- Sign up for course.\n- Wait for courses to start.\n- Go to courses for a semester.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to Prepare a Wall for Paint\n\n- Use a scraper or putty knife to scrape the area around holes or cracks.\n- Dampen the area around the damage with a small paintbrush.\n- Put filler in cracks and holes using a putty knife.\n- Wait for the filler to dry and smooth out the repaired areas with sandpaper.\n- Prime over repaired areas with a tinted primer.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to take a vacation this year\n\n- Save up money for vacation.\n- Research vacation spots.\n- Choose a vacation spot.\n- Choose a time to take off work.\n- Request time off of work.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to make 60 dollars on mechanical turk\n\n- Open up a HIT scraper.\n- Turn on catcher for favorite HITs.\n- Wait for the HITs to be catched.\n- Start working on HITs fast.\n- Tally the hits.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to sit down at desk\n\n- Arrive at the building.\n- Walk to the desk.\n- Open up the door.\n- Look for an empty desk.\n- Point at the desk.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to send text messages faster\n\n- Open google play store on phone.\n- Search for a good keyboard app.\n- Download keyboard app.\n- Open keyboard app.\n- Set app as default app.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to Create a Gallery Wall\n\n- Cut out templates from craft paper.\n- Tape the templates to the wall.\n- Mark where the nails should go.\n- Hammer in your nails.\n- Hang your art.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to quit drinking soda\n\n- Look up the dangers of soda.\n- Make a commitment in writing to quit.\n- Talk to a doctor for tips on quitting.\n- Take all the soda out of the fridge.\n- Pour all the soda down the drain.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to pick up dinner\n\n- Order for the dinner.\n- Get confirmation dinner is ready.\n- Drive to the restaurant.\n- Pay for the meal.\n- Tip the waiter.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to see the park\n\n- Get dressed and put on shoes.\n- Grab house keys.\n- Lock up the house and head out.\n- Walk to the park.\n- Arrive at the park.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to play in the olympics\n\n- Enroll in a sports league.\n- Compete in the sports league.\n- Apply for olympic try-outs.\n- Qualify for olympic team.\n- Go to olympics.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to introduce a new flavor of ice cream\n\n- Think about what new flavor to add.\n- Ask customers for flavor suggestions.\n- Gather ingredients, try different recipes.\n- Have employees try samples.\n- Decide on which recipe, serve for first time.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to get the laptop\n\n- Stand up from chair.\n- Turn towards backpack.\n- Walk towards backpack.\n- Unzip the backpack.\n- Remove the laptop from the backpack.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to go school clothes shopping\n\n- Ask mom to go clothes shopping.\n- Drive with mom to the mall.\n- Park the car.\n- Walk to the mall entrance.\n- Enter the mall.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to know why the water was red\n\n- Take a sample of the water.\n- Submit the water to a lab.\n- Analyze the results.\n- Wait for the results.\n- Determine what is in the water.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to compete in a 5k race\n\n- Look up races online.\n- Pick one to participate in.\n- Call to apply.\n- Receive the invitation.\n- Go to the race.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to decide a place to go\n\n- Think about where to go.\n- Discuss with everyone else.\n- Listen to everyone's suggestions.\n- Take a vote.\n- Make a final decision.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to buy a computer game\n\n- Look at the computers games available.\n- Choose a game that looks interesting.\n- Take the game off of the shelf.\n- Take the game to the cashier.\n- Place the game on the counter.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to learn a new sport\n\n- Decide on which sport is of interest.\n- Sit down at computer.\n- Go to youtube.com.\n- Search how-to videos on desired sport.\n- Watch all highest rated videos.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to eat pancakes for breakfast\n\n- Go to refrigerator.\n- Pull out pancake box.\n- Grab couple of pancake from the box.\n- Put the pancake in a plate.\n- Microwave pancakes for 20 seconds each.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to go white water rafting\n\n- Get in the car.\n- Drive to the store.\n- Buy rafting equipment.\n- Go back home.\n- Put all the equipment on.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to drive the family car\n\n- Put on coat, grab purse.\n- Locate keys for vehicle.\n- Close and lock house door.\n- Press 'unlock on key fob' and open car door.\n- Turn on car and put in 'Drive'.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to wear something daring that night\n\n- Get invited for the night out.\n- Get to know what is cool.\n- Find a short dress to where.\n- Call a friend.\n- Go out together.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to join the yearbook staff\n\n- Walk over to the bulletin board in school.\n- See paper for yearbook club.\n- Reach into backpack.\n- Grab a pen.\n- Write name on sign up sheet.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 5
+    },
+    {
+        "sentence": "Tutorial: How to see an alligator\n\n- Walk outside of house.\n- Get inside car.\n- Start car and drive to zoo.\n- Purchase zoo ticket.\n- Ask staff where alligators are kept.\n- Walk to alligator exhibit.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to study for a test\n\n- Gather the textbook.\n- Gather the course notes.\n- Read the course notes.\n- Read the relevant textbook information.\n- Make flash cards.\n- Review the flash cards.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Wear a Pancha Kachcham\n\n- Position your material.\n- Wrap the cloth around your waist.\n- Make the first folds.\n- Make the second fold.\n- Make the third fold.\n- Tuck the final fold.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to walk into the kitchen\n\n- Stand up from seating position.\n- Walk through the room.\n- Exit the room.\n- Turn toward the kitchen.\n- Walk toward the kitchen.\n- Enter the kitchen.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to fry some Oreos\n\n- Go to the store.\n- Walk inside the store.\n- Find the Oreo section.\n- Grab a bag of Oreo's.\n- Head to the checkout.\n- Pay at the register.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to learn how to make pottery\n\n- Find a pottery class that is near.\n- Sign up to the class and pay.\n- Find the time and place for the class.\n- Attend the class.\n- Make a piece of pottery for final exam.\n- Fire the the piece of pottery for final exam.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Use an Overripe Tomato\n\n- Score the tomatoes.\n- Boil the tomatoes for 60 seconds.\n- Plunge the tomatoes into an ice bath.\n- Peel off the skins.\n- Seed and dice the tomatoes.\n- Cook all the ingredients together for 30 minutes.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make Lemon Syrup\n\n- Peel the lemons.\n- Put the peel into a bowl with the pips and lemon juice.\n- Add the sugar and pour over the boiling water.\n- Leave to infuse as it cools.\n- Strain the mixture once cool and add the tartaric acid.\n- Pour into bottles.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to buy container oatmeal\n\n- Drive to the store.\n- Walk around the store.\n- Find the oatmeal section.\n- Pick an oatmeal.\n- Go to checkout.\n- Pay for the oatmeal.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make Spiral Wire Tree Decorations\n\n- Assemble the items needed.\n- Position the foam cone on a flat surface, such as a table top.\n- Starting from the top, wrap the armature wire down the foam cone, until you reach the bottom.\n- Pull the foam out from under the wire sculpture.\n- Thread thin cord through the loop.\n- Hang on the tree as a decoration.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Store Chives\n\n- Wash the chives and let them dry completely.\n- Chop the chives into pieces no bigger than \u20444 inch (0.64 cm).\n- Spread the chives out on a baking sheet in a single layer.\n- Place the baking sheet with the chives in the freezer for 30 minutes.\n- Remove the chives and scoop them into an airtight container.\n- Store the container in a cool dry place for 1 year.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make Champagne Cake\n\n- Add the pudding mix to a bowl.\n- Add 1 cup heavy cream to pudding mix.\n- Beat pudding mixture until it begins to thicken.\n- Add 1/4 cup champagne slowly to the pudding mixture.\n- Allow the pudding mixture to stand a few minutes to thicken.\n- Spread filling between the two cake layers.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to do a handstand\n\n- Stretch thoroughly, especially arms and legs.\n- Stand with legs apart.\n- Bend upper body forward.\n- Keep arms straight and touch palms to floor.\n- Kick one leg forward.\n- Straighten legs to point to ceiling.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to take a trip to the jungle\n\n- Go to a travel agent.\n- Select a trip to country with a jungle.\n- Pay for the trip.\n- Travel to the country by plane.\n- Check in at tour guide center.\n- Enter the jungle.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to make the bed\n\n- Decide to make the bed.\n- Walk to bedroom.\n- Walk over to the bed.\n- Take pillows off the bed.\n- Pick comforter up off the floor.\n- Put comforter on bed.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to have a romantic evening\n\n- Invite partner over for evening.\n- Make nice dinner while date is traveling.\n- Surprise date with dinner upon arrival.\n- Eat dinner together.\n- Choose movie to watch after dinner.\n- Spend rest of night together watching movies and cuddling.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make Basic Pizza Dough\n\n- Dissolve yeast and sugar in warm water in large bowl.\n- Stir in half the flour, oil and salt.\n- Stir in the remaining flour until dough is easy to handle.\n- Set dough onto a floured surface and knead for about 10 minutes until smooth.\n- Place in a greased bowl and turn over to grease the top.\n- Cover and refrigerate at least 2 hours but no longer than 48 hours.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Layer Cut Your Own Hair\n\n- Divide your hair into sections.\n- Trim the front top box.\n- Trim the front right section.\n- Trim the front left section.\n- Trim the back sections.\n- Comb your hair out and examine your layers.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to send a message to others\n\n- Take out the cell phone.\n- Open the message application.\n- Type the message.\n- Proofread the  message.\n- Edit the message.\n- Press the send button.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to go to prom\n\n- Find a nice suit.\n- Purchase nice suit.\n- Find where date is.\n- Figure out where event is.\n- Get in car to event.\n- Use map to get to event.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Save up money\n\n- Search online for summer job.\n- Apply for summer job.\n- Interview for summer job.\n- Get hired at summer job.\n- Work all summer at job.\n- Get paid for work.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to watch a movie about a dying mother\n\n- Sit down on couch.\n- Turn on TV.\n- Click on Netflix app.\n- Search through movies for dying mother films.\n- Decide on which movie to select.\n- Click play button.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to take a flight\n\n- Purchase plane ticket.\n- Pack suitcase with necessities.\n- Call a cab.\n- Get picked up by cab.\n- Take cab to airport with ticket and suitcase.\n- Get into check in line at airport.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to get the best scoop\n\n- Hear news about something big.\n- Go through list of contacts on phone.\n- Find contact related to big news story.\n- Call contact and promise the call is off the record.\n- Write down what is said.\n- Publish content without permission.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to get bigger muscles\n\n- Find location to gym.\n- Drive to gym.\n- Lift heavy weights.\n- Return back home.\n- Eat lots of food.\n- Get lots of rest.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to work for the new tech company in town\n\n- Look for tech companies that are hiring.\n- Choose a tech company.\n- Send the resume.\n- Drive to the company.\n- Be at the interview.\n- Accept the job.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Curl Your Hair with Tongs\n\n- Plug in your curling tongs.\n- Start with the top layer of hair on the back of your head.\n- Apply the tongs to your hair.\n- Hold for 10 to 20 seconds.\n- Unwind your hair from the tongs gently.\n- See how it looks.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to get a new lamp\n\n- Leave home through the front door.\n- Lock the front door.\n- Walk to the furniture store.\n- Navigate to the lighting section.\n- Determine which lamp is best.\n- Bring the lamp to the register.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to get into better shape\n\n- Go to google.\n- Search for a gym.\n- Go to the sign up page.\n- Sign up for the gym.\n- Pay the fee.\n- Go to the gym most days.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to try wearing ripped jeans\n\n- Head to store.\n- Ask where ripped jeans are.\n- Walk to section jeans are sold.\n- Choose a pair of jeans to try on.\n- Try on jeans in fitting room.\n- Purchase jeans while still wearing.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make Scotch Scones\n\n- Sift the flour.\n- In a bowl, add the sifted flour, baking soda and milk.\n- Lay the scone dough on a well-floured cutting board.\n- Roll to 1 inch / 2.5 cm thick.\n- Bake in a moderate oven for about 10 - 12 minutes.\n- Serve hot with butter.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make Ricotta Cheese Low Fat Frosting\n\n- Melt the margarine in a heavy-based saucepan.\n- Add the flour and stir for two minutes until it is thoroughly dissolved.\n- Add the ricotta cheese and milk and stir in completely.\n- Continue cooking until the mixture thickens.\n- Add the sugar and stir until it dissolves.\n- Remove from the heat and allow to cool.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make a Mcgangbang\n\n- Order a McDouble and a McChicken.\n- Wait for them to make it.\n- Pick up your food.\n- Open the McDouble separating the 2 beef patties.\n- Put the entire McChicken, bun and all, in between the two patties of the McDouble.\n- Close it up again so that its one really thick sandwich.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to hold a tea party\n\n- Invite people to the party.\n- Buy food and tea.\n- Clean the house.\n- Make the tea.\n- Set up the food and the tea.\n- Let guests into the house.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to fill pot with water.\n\n- Open cabinet door.\n- Remove pot from cabinet.\n- Carry pot to sink.\n- Place pot under the faucet.\n- Turn on water faucet.\n- Turn off faucet when pot is full.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make a Roux\n\n- Choose the fat you want to use.\n- Heat the fat in a skillet.\n- Add the flour.\n- Cook the roux.\n- Remove the roux from heat.\n- Store the roux.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to buy a skateboard\n\n- Look online for a skate shop.\n- Get in the car.\n- Drive to the shop.\n- Park the car.\n- Walk in the shop.\n- Look at skateboards.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make a Pear Martini\n\n- Add ice to a cocktail shaker.\n- Add the vodka and pear liqueur to the cocktail shaker.\n- Stir the ingredients in the cocktail shaker with a bar spoon for five to ten seconds.\n- Strain into a cocktail glass.\n- Garnish with a pear slice.\n- Serve the drink.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Make Mushy Peas\n\n- Start with large peas.\n- Rinse the peas.\n- Steam until wrinkled.\n- Add melted butter, cream, salt, and pepper.\n- Mash until soft.\n- Eat immediately.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to Cook Lamb\n\n- Combine the lamb and white wine in a medium-sized bowl.\n- Remove the lamb from the marinade and pat it dry.\n- Transfer the meat to a separate dish and set aside.\n- Add the meat, roasted peppers, tomatoes, bay leaf, parsley, and red wine to the pan and bring the mixture to a boil.\n- Pour in the chicken stock and bring the mixture to a boil again.\n- Serve the stew warm, adding salt and pepper to taste.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 6
+    },
+    {
+        "sentence": "Tutorial: How to clean a specific shirt\n\n- Obtain dirty shirt.\n- Walk towards the washing machine.\n- Open the washing machine.\n- Put the shirt inside the washer.\n- Add soap to the washer.\n- Close the washer.\n- Turn the washing machine on.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to get away for a quiet vacation\n\n- Decide to go on a vacation.\n- Pick out a destination.\n- Buy a plane ticket online.\n- Book a hotel online.\n- Drive to airport.\n- Get on plane.\n- Fly to destination.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to Cut Glass for Crafts\n\n- Clean any paper or adhesive off of a glass bottle.\n- Set the bottle on top of the rollers on a bottle cutter.\n- Adjust the scoring blade so it touches the bottle.\n- Rotate the bottle on the rollers to make a score line.\n- Pour hot water over the line you scored on the bottle.\n- Dip the bottle in ice water to break it along the score line.\n- Sand any rough edges with 220-grit sandpaper.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to pick out some sheet music to play\n\n- Step out of the house.\n- Go to a music store.\n- Find the sheet music in the store.\n- Look at all of the different sheet music options.\n- Look closely at some sheet music.\n- Choose some sheet music to bring home.\n- Go home and play music.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to make some money\n\n- Create a resume.\n- Revise the resume.\n- Look up job offers.\n- Send the resumes.\n- Drive to the interview.\n- Accept the job.\n- Complete first day of work.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to make some fresh lemonade\n\n- Go to the car.\n- Drive to the store.\n- Walk in the store.\n- Go to produce.\n- Pick up some lemons.\n- Pay the cashier.\n- Drive back home.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to try out dairy queen\n\n- Google Dairy Queen locations.\n- Determine which location to visit.\n- Get in car and drive to location.\n- Drive into drive-thru at Dairy Queen.\n- Place order at drive-thru.\n- Pay for order.\n- Receive Dairy Queen food.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to Choose vegetables for salad\n\n- Check pantry area for non-refrigerated vegetables.\n- Open the refrigerator.\n- Look in the vegetable drawer for available options.\n- Take out desired items and place on kitchen counter.\n- Squeeze and smell all produce for freshness.\n- Mix selected items with those on kitchen counter.\n- Combine in a bowl and place under cold running water.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to get to work\n\n- Walk to car.\n- Get in car.\n- Start car engine.\n- Drive to work.\n- Park car in parking spot.\n- Turn off engine.\n- Get out of car.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to make a masterpiece\n\n- Think of masterpiece to make.\n- Decide which masterpiece to make.\n- Sit down at computer.\n- Open up google and find supply store.\n- Order wood supplies needed for craft box.\n- Wait for supplies to arrive.\n- Carve/make wooden box until a crafted masterpiece is present.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to open up a convenience store\n\n- Search out convenience store's for sale.\n- Decide on desired store.\n- Speak with owner.\n- Decide on price.\n- Travel to bank.\n- Put in loan application.\n- Wait for loan approval.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to get away from the city life\n\n- Look up a trail outside of the city.\n- Get directions to the trail.\n- Leave the apartment building.\n- Walk to the car.\n- Get into car.\n- Follow directions to the trail.\n- Take a breath of fresh country air.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to go to the Netherlands\n\n- Buy the plane ticket.\n- Bring ticket, bags, passport to air port.\n- Catch plane on time.\n- Find seat on plane to sit at.\n- Eat lunch on plane.\n- Stay seated until reaching destination.\n- Leave plane when at destination.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to make myself a nice dinner\n\n- Go to the refrigerator.\n- Open the refrigerator.\n- Select ingredients to make a meal.\n- Begin cutting up ingredients.\n- Mix ingredients together.\n- Prepare dishes and cutlery.\n- Place ingredients in a dish and cook in oven.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to Volunteer to join the Marines\n\n- Decide to volunteer to join marines.\n- Discuss decision with family.\n- Get family's approval.\n- Got to marine recruitment office.\n- Ask for application to volunteer for marines.\n- Fill out application to volunteer for marines.\n- Turn in application to volunteer for marines.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to Make Red Eye Gravy\n\n- Trim and slice the country ham.\n- Consider soaking the ham.\n- Heat a skillet and dry the ham.\n- Fry the ham.\n- Add coffee to the drippings.\n- Stir in water and sugar, optional.\n- Serve the red eye gravy.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to bake an apple pie\n\n- Find the recipe for the pie.\n- Walk to the car.\n- Go to the store for the ingredients.\n- Bring the ingredients into the house.\n- Put the ingredients on the counter.\n- Put the ingredients together.\n- Put the unbaked pie in the oven.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to go on a camping trip\n\n- Think of where to camp.\n- Decide on place to camp.\n- Think of friends to invite.\n- Text friends invitations.\n- Wait for camping date.\n- Pack all needed items.\n- Text friends address and drive there to meet up.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to learn how to sew\n\n- Decide to learn how to sew.\n- Research sewing online.\n- Make a list of equipment needed.\n- Got to fabric store.\n- Buy sewing equipment at fabric store.\n- Drive home from fabric store.\n- Put sewing equipment on table.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to learn to brew beer\n\n- Research beer-making process on YouTube.\n- Order beer-making supplies from Amazon.\n- Wait for items to arrive.\n- Unpack and setup brewing equipment.\n- Follow beer recipe and add all ingredients.\n- Allow beer to ferment.\n- Bottle final product once brewed.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to buy a bicycle\n\n- Turn on computer.\n- Open web browser.\n- Go to Craigslist or similar preferred site.\n- Search for bicycles.\n- Choose a bike and email seller.\n- Meet with seller.\n- Negotiate a price for bicycle.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to learn to back flip\n\n- Turn on the computer.\n- Open a web browser.\n- Search the Internet on how to back flip.\n- Take notes on what to do.\n- Order a trampoline or a foam ball pit.\n- Set the item up when upon arrival.\n- Practice doing back flips.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to go on a road trip\n\n- Plan a route.\n- Confirm safety status of vehicle.\n- Fill vehicle with gasoline.\n- Begin driving towards destination.\n- Exit the house.\n- Put supplies for trip in vehicle.\n- Enter the vehicle.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to drink a soda\n\n- Walk to the refrigerator.\n- Open the refrigerator.\n- See what's in the refrigerator.\n- Pick a soda.\n- Take the soda out.\n- Open the soda.\n- Drink all of the soda.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to exchange a shirt for a better size\n\n- Find the receipt for the shirt.\n- Place receipt and shirt in bag.\n- Drive to the store where item was purchased.\n- Try on alternative sizes.\n- Find the customer service desk.\n- Head back to the service desk.\n- Explain intention to exchange.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to bake cookies at home\n\n- Preheat the oven.\n- Add ingredients to a bowl.\n- Mix the ingredients.\n- Place baking sheet on the counter.\n- Scoop dough from the bowl with a spoon.\n- Put cookie dough on baking sheet.\n- Put baking sheet with dough in the oven.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to get in the car\n\n- Approach the car.\n- Take out the key to the car.\n- Unlock the car door.\n- Grab onto the car door handle.\n- Pull the handle forward to open the door.\n- Bend down to sit in vehicle's seat.\n- Close car door.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to take a helicopter ride while on vacation\n\n- Leave hotel room.\n- Walk to hotel lobby.\n- Ask hotel worker where helicopter rides are located.\n- Leave hotel and catch taxi to helicopter.\n- Ask helicopter pilot how much rides are.\n- Pay money and get in helicopter.\n- Fly up in helicopter.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to learn how to ride a bike\n\n- Look up bike riding videos.\n- Look up bike shops.\n- Drive to the bike shop.\n- Compare the different bikes.\n- Ask questions about bikes.\n- Purchase the bike.\n- Practice riding the bike.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to do a mac & cheese\n\n- Drive to the store.\n- Buy mac and cheese.\n- Drive back home.\n- Boil pot of water.\n- Boil macaroni noodles.\n- Drain macaroni noodles.\n- Add cheese and stir.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to play a game of squash\n\n- Pick up squash gear from the garage.\n- Take gear to the car.\n- Put gear in car.\n- Get into car.\n- Drive to squash field.\n- Get out of the car and grab gear.\n- Wait for other players.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to live in the dorms next year\n\n- Apply for financial aid.\n- Sign up for classes.\n- Look up books required for class.\n- Order the books online.\n- Order school supplies.\n- Fly to the college.\n- Set up in the dorm.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to go to new york\n\n- Turn on the computer.\n- Purchase a plane ticket.\n- Pack a suitcase.\n- Drive to the airport.\n- Find a parking spot.\n- Go thru security.\n- Check baggage at the gate.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to have a large baby shower\n\n- Decide on venue.\n- Make list of guests.\n- Send out invitations.\n- Wait for replies.\n- Check availability of venue.\n- Book venue for shower.\n- Send confirmation details to guests.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to try some Okra\n\n- Enter a restaurant.\n- Wait to be seated.\n- Open the menu.\n- Find menu item with okra.\n- Order okra from the menu.\n- Wait for the food to arrive.\n- Eat the food that arrives.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to build a computer since buying one was expensive\n\n- Buy the various computer parts.\n- Get the instructions.\n- Read the instructions carefully.\n- Put each part in piece by piece.\n- Check that everything is in the right place.\n- Test out the computer.\n- Use the computer happily.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to Paint Metal Knobs\n\n- Remove the metal knobs from the drawers.\n- Wash the metal knobs.\n- Sand the knobs.\n- Prepare the knobs for priming and painting.\n- Prime the metal knobs.\n- Apply paint to the metal knobs.\n- Reinstall the metal knobs.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to go to the grocery store for some groceries\n\n- Create a shopping list.\n- Drive to the store.\n- Walk around the store.\n- Put groceries in cart.\n- Pay for the groceries.\n- Pack groceries in a bag.\n- Drive home with groceries.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to explore the jungle\n\n- Book a ticket.\n- Go to the airport.\n- Park the car.\n- Walk to the desk of an airline.\n- Wait for the plane.\n- Go to a country with jungle.\n- Hire someone to drive out there.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    },
+    {
+        "sentence": "Tutorial: How to dress as witches\n\n- Get in the car.\n- Drive to a Halloween store.\n- Browse the witch gear section.\n- Pick an outfit.\n- Walk to the register.\n- Pay for the outfit.\n- Drive back home.\n\nQuestion: How many steps are necessary to complete the tutorial? Reply with a single-digit number\nAnswer: It takes ",
+        "num_sentences": 7
+    }
+]

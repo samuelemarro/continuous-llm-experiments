@@ -1,0 +1,1443 @@
+[
+    {
+      "prelude": "{name} goes on a safari.",
+      "sentences": [
+        "{pronoun} sees a lion resting under a tree.",
+        "{pronoun} sees a herd of elephants near a waterhole.",
+        "{pronoun} sees a cheetah chasing a gazelle.",
+        "{pronoun} sees a group of zebras grazing.",
+        "{pronoun} sees a giraffe eating from a tall tree.",
+        "{pronoun} sees a pack of hyenas scavenging.",
+        "{pronoun} sees a crocodile sunbathing on a riverbank.",
+        "{pronoun} sees a pair of flamingos standing in the water.",
+        "{pronoun} sees a leopard lounging on a branch.",
+        "{pronoun} sees a warthog digging in the mud."
+      ],
+      "question": "How many animals did {name} see?",
+      "answer": "{pronoun} saw ",
+      "examples": [
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} explores an ancient city.",
+      "sentences": [
+        "{pronoun} sees a towering stone pyramid.",
+        "{pronoun} finds intricate carvings on temple walls.",
+        "{pronoun} discovers an underground crypt.",
+        "{pronoun} sees a mural depicting ancient battles.",
+        "{pronoun} walks through an abandoned marketplace.",
+        "{pronoun} finds pottery shards in the dirt.",
+        "{pronoun} sees a ceremonial altar.",
+        "{pronoun} climbs a stone staircase to a lookout point.",
+        "{pronoun} observes a network of ancient aqueducts.",
+        "{pronoun} visits a crumbling amphitheater."
+      ],
+      "question": "How many landmarks did {name} discover?",
+      "answer": "{pronoun} discovered ",
+      "examples": [
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Quinn", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} visits a botanical garden.",
+      "sentences": [
+        "{pronoun} sees a collection of exotic orchids.",
+        "{pronoun} walks through a tunnel of roses.",
+        "{pronoun} observes bees pollinating lavender flowers.",
+        "{pronoun} admires a pond filled with lily pads.",
+        "{pronoun} reads about carnivorous plants in the greenhouse.",
+        "{pronoun} takes photos of vibrant tulips.",
+        "{pronoun} spots a rare cactus in the desert section.",
+        "{pronoun} sits beneath a sprawling banyan tree.",
+        "{pronoun} smells the sweet fragrance of jasmine.",
+        "{pronoun} visits a display of bonsai trees."
+      ],
+      "question": "How many plants or exhibits did {name} see?",
+      "answer": "{pronoun} saw ",
+      "examples": [
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Olivia", "pronoun": "She" },
+        { "name": "Clara", "pronoun": "She" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} attends a space-themed lecture.",
+      "sentences": [
+        "{pronoun} learns about the history of space exploration.",
+        "{pronoun} learns about the Apollo missions to the Moon.",
+        "{pronoun} learns about the Voyager spacecraft traveling beyond the solar system.",
+        "{pronoun} learns about the Hubble Space Telescope's discoveries.",
+        "{pronoun} learns about Mars rovers searching for signs of life.",
+        "{pronoun} learns about upcoming plans for space tourism.",
+        "{pronoun} learns about the search for extraterrestrial intelligence.",
+        "{pronoun} learns about how astronauts train for space.",
+        "{pronoun} learns about space habitats being designed for Mars.",
+        "{pronoun} learns about how gravity affects the human body."
+      ],
+      "question": "How many topics did {name} learn about in the lecture?",
+      "answer": "{pronoun} learned about ",
+      "examples": [
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Nina", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Riley", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} prepares for a big event.",
+      "sentences": [
+        "{pronoun} hangs colorful streamers.",
+        "{pronoun} sets up tables and chairs.",
+        "{pronoun} prepares a platter of sandwiches.",
+        "{pronoun} decorates with balloons and lights.",
+        "{pronoun} arranges fresh flowers in vases.",
+        "{pronoun} places candles along the walkway.",
+        "{pronoun} fills a punch bowl with fruit juice.",
+        "{pronoun} assembles party favors in bags.",
+        "{pronoun} selects music for the playlist.",
+        "{pronoun} rehearses a dance performance."
+      ],
+      "question": "How many preparations did {name} complete?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Nina", "pronoun": "She" },
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} spends a day studying at the library.",
+      "sentences": [
+        "{pronoun} reads a chapter on ancient civilizations.",
+        "{pronoun} takes notes from a biology textbook.",
+        "{pronoun} researches historical battles online.",
+        "{pronoun} highlights key points in a law journal.",
+        "{pronoun} writes an essay on environmental issues.",
+        "{pronoun} creates flashcards for a math exam.",
+        "{pronoun} solves practice questions for a physics quiz.",
+        "{pronoun} watches an educational video on astronomy.",
+        "{pronoun} organizes references for a research paper.",
+        "{pronoun} checks out three books for further reading."
+      ],
+      "question": "How many study tasks did {name} complete?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Nina", "pronoun": "She" },
+        { "name": "Riley", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} visits a planetarium.",
+      "sentences": [
+        "{pronoun} watches a simulated night sky on the dome.",
+        "{pronoun} sees a 3D model of the solar system.",
+        "{pronoun} learns about ancient star charts.",
+        "{pronoun} hears a lecture on the formation of galaxies.",
+        "{pronoun} views a hologram of a black hole.",
+        "{pronoun} sees an interactive display about space missions.",
+        "{pronoun} watches a short film about life on Mars.",
+        "{pronoun} examines meteorites displayed in glass cases.",
+        "{pronoun} touches a replica of the Moon's surface.",
+        "{pronoun} listens to recordings of astronauts in space."
+      ],
+      "question": "How many things did {name} explore at the planetarium?",
+      "answer": "{pronoun} explored ",
+      "examples": [
+        { "name": "Tina", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Jack", "pronoun": "He" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Olivia", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} watches a parade.",
+      "sentences": [
+        "{pronoun} sees a marching band playing lively music.",
+        "{pronoun} watches a float decorated with flowers.",
+        "{pronoun} sees acrobats performing stunts.",
+        "{pronoun} waves at clowns handing out balloons.",
+        "{pronoun} notices a group of dancers in traditional attire.",
+        "{pronoun} admires a firetruck covered in lights.",
+        "{pronoun} hears a drumline keeping the beat.",
+        "{pronoun} spots a float with a giant inflatable mascot.",
+        "{pronoun} cheers for veterans riding in convertibles.",
+        "{pronoun} sees horses trotting gracefully in the procession."
+      ],
+      "question": "How many parade attractions did {name} see?",
+      "answer": "{pronoun} saw ",
+      "examples": [
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Nina", "pronoun": "She" },
+        { "name": "Harper", "pronoun": "They" },
+        { "name": "Fiona", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} trains for a marathon.",
+      "sentences": [
+        "{pronoun} runs 5 miles through the park.",
+        "{pronoun} stretches before starting a workout.",
+        "{pronoun} practices sprints on the track.",
+        "{pronoun} hydrates with a bottle of water.",
+        "{pronoun} maps out a long-distance route.",
+        "{pronoun} times a practice run for pace improvement.",
+        "{pronoun} logs their miles in a training journal.",
+        "{pronoun} rests and recovers with a protein shake.",
+        "{pronoun} buys new running shoes for the event.",
+        "{pronoun} joins a group run with friends."
+      ],
+      "question": "How many training activities did {name} complete?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Tina", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} participates in a science fair.",
+      "sentences": [
+        "{pronoun} builds a model of the solar system.",
+        "{pronoun} assembles a display board about renewable energy.",
+        "{pronoun} prepares a volcano experiment with baking soda.",
+        "{pronoun} explains how a wind turbine works.",
+        "{pronoun} demonstrates a working circuit using batteries.",
+        "{pronoun} shows a time-lapse video of plant growth.",
+        "{pronoun} tests a homemade water filter.",
+        "{pronoun} presents findings on local bird populations.",
+        "{pronoun} sets up a microscope for viewing cells.",
+        "{pronoun} writes labels for all the displays."
+      ],
+      "question": "How many projects did {name} prepare?",
+      "answer": "{pronoun} prepared ",
+      "examples": [
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} explores an ancient castle.",
+      "sentences": [
+        "{pronoun} climbs a spiral staircase to a tower.",
+        "{pronoun} discovers a hidden passage behind a bookshelf.",
+        "{pronoun} examines a suit of armor in the great hall.",
+        "{pronoun} walks through the royal gardens.",
+        "{pronoun} finds a tapestry depicting a historic battle.",
+        "{pronoun} enters the dungeon and sees old chains.",
+        "{pronoun} visits the banquet hall with long wooden tables.",
+        "{pronoun} looks out of an arrow slit in the wall.",
+        "{pronoun} steps into the castle’s chapel with stained glass windows.",
+        "{pronoun} explores the kitchen with ancient cookware."
+      ],
+      "question": "How many parts of the castle did {name} explore?",
+      "answer": "{pronoun} explored ",
+      "examples": [
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Tina", "pronoun": "She" },
+        { "name": "Blake", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} prepares for a picnic.",
+      "sentences": [
+        "{pronoun} packs sandwiches into a basket.",
+        "{pronoun} fills a cooler with drinks.",
+        "{pronoun} cuts fruit into bite-sized pieces.",
+        "{pronoun} spreads a blanket under a tree.",
+        "{pronoun} sets up a portable grill.",
+        "{pronoun} brings a frisbee for games.",
+        "{pronoun} arranges snacks in reusable containers.",
+        "{pronoun} packs sunscreen for everyone.",
+        "{pronoun} fills a bottle with lemonade.",
+        "{pronoun} prepares a music playlist for the outing."
+      ],
+      "question": "How many preparations did {name} make for the picnic?",
+      "answer": "{pronoun} made ",
+      "examples": [
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} takes a road trip.",
+      "sentences": [
+        "{pronoun} visits a scenic overlook.",
+        "{pronoun} stops at a roadside diner.",
+        "{pronoun} fills up the gas tank at a small station.",
+        "{pronoun} takes photos at a quirky roadside attraction.",
+        "{pronoun} hikes a short trail to a waterfall.",
+        "{pronoun} camps overnight at a national park.",
+        "{pronoun} listens to an audiobook while driving.",
+        "{pronoun} stops to buy souvenirs at a local shop.",
+        "{pronoun} navigates through winding mountain roads.",
+        "{pronoun} enjoys a sunset from a highway rest stop."
+      ],
+      "question": "How many activities did {name} do during the road trip?",
+      "answer": "{pronoun} did ",
+      "examples": [
+        { "name": "Olivia", "pronoun": "She" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Harper", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} learns a new skill.",
+      "sentences": [
+        "{pronoun} watches a tutorial video online.",
+        "{pronoun} practices the skill for 30 minutes.",
+        "{pronoun} writes down important tips in a notebook.",
+        "{pronoun} asks a mentor for advice.",
+        "{pronoun} joins a beginner's workshop.",
+        "{pronoun} sets a goal to improve each week.",
+        "{pronoun} buys tools needed for the skill.",
+        "{pronoun} creates a project to test their progress.",
+        "{pronoun} reviews their mistakes and adjusts.",
+        "{pronoun} celebrates completing their first big milestone."
+      ],
+      "question": "How many steps did {name} take to learn the new skill?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Isla", "pronoun": "She" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Alex", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} explores a dense jungle.",
+      "sentences": [
+        "{pronoun} spots a monkey swinging from tree to tree.",
+        "{pronoun} hears a parrot squawking loudly.",
+        "{pronoun} discovers a waterfall hidden behind thick foliage.",
+        "{pronoun} notices a colorful butterfly landing on a leaf.",
+        "{pronoun} sees a snake slithering across the path.",
+        "{pronoun} takes a photo of a rare orchid.",
+        "{pronoun} finds a footprint of a large animal.",
+        "{pronoun} crosses a hanging bridge over a river.",
+        "{pronoun} observes a family of ants carrying leaves.",
+        "{pronoun} reaches a viewpoint overlooking the jungle."
+      ],
+      "question": "How many things did {name} observe in the jungle?",
+      "answer": "{pronoun} observed ",
+      "examples": [
+        { "name": "Nina", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Quinn", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} attends a music festival.",
+      "sentences": [
+        "{pronoun} listens to a rock band performing on stage.",
+        "{pronoun} buys a festival T-shirt from a vendor.",
+        "{pronoun} dances with friends in the crowd.",
+        "{pronoun} tries a new kind of food at a food truck.",
+        "{pronoun} watches a DJ light show at night.",
+        "{pronoun} sits on the grass to enjoy acoustic music.",
+        "{pronoun} takes photos with performers after a set.",
+        "{pronoun} visits a tent showcasing local artists.",
+        "{pronoun} cheers during an encore performance.",
+        "{pronoun} collects wristbands from different stages."
+      ],
+      "question": "How many activities did {name} enjoy at the music festival?",
+      "answer": "{pronoun} enjoyed ",
+      "examples": [
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} conducts science experiments in a lab.",
+      "sentences": [
+        "{pronoun} mixes two chemicals to observe a reaction.",
+        "{pronoun} measures the pH of a solution.",
+        "{pronoun} uses a microscope to study cells.",
+        "{pronoun} sets up a circuit to test conductivity.",
+        "{pronoun} analyzes plant growth under different conditions.",
+        "{pronoun} records data in a lab notebook.",
+        "{pronoun} heats a sample to test its boiling point.",
+        "{pronoun} observes changes in a liquid's color.",
+        "{pronoun} calibrates a scale for accurate measurements.",
+        "{pronoun} prepares a presentation on the experiment findings."
+      ],
+      "question": "How many experiments did {name} perform?",
+      "answer": "{pronoun} performed ",
+      "examples": [
+        { "name": "Olivia", "pronoun": "She" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Harper", "pronoun": "They" },
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Tom", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} visits a zoo.",
+      "sentences": [
+        "{pronoun} sees lions lounging in their enclosure.",
+        "{pronoun} watches penguins swimming underwater.",
+        "{pronoun} feeds lettuce to a giraffe.",
+        "{pronoun} hears monkeys chattering in the trees.",
+        "{pronoun} observes flamingos standing on one leg.",
+        "{pronoun} takes photos of a tiger pacing.",
+        "{pronoun} spots a snake coiled in its terrarium.",
+        "{pronoun} watches a polar bear play in the water.",
+        "{pronoun} listens to a zookeeper explain animal behavior.",
+        "{pronoun} rides a tram to see the elephant exhibit."
+      ],
+      "question": "How many animals or activities did {name} see at the zoo?",
+      "answer": "{pronoun} saw ",
+      "examples": [
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Fiona", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} builds a treehouse.",
+      "sentences": [
+        "{pronoun} sketches a design for the treehouse.",
+        "{pronoun} gathers wooden planks and nails.",
+        "{pronoun} constructs a sturdy platform on the tree.",
+        "{pronoun} builds walls around the platform.",
+        "{pronoun} installs a ladder for easy access.",
+        "{pronoun} adds a roof to protect from rain.",
+        "{pronoun} paints the treehouse in bright colors.",
+        "{pronoun} adds a pulley system to lift items.",
+        "{pronoun} decorates the interior with cushions.",
+        "{pronoun} installs a small window with shutters."
+      ],
+      "question": "How many steps did {name} take to build the treehouse?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "George", "pronoun": "He" },
+        { "name": "Isla", "pronoun": "She" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Tina", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} paints a mural on a wall.",
+      "sentences": [
+        "{pronoun} sketches the outline of the mural.",
+        "{pronoun} gathers brushes and paint cans.",
+        "{pronoun} paints a blue sky with fluffy clouds.",
+        "{pronoun} adds a bright sun to the corner.",
+        "{pronoun} paints a field of colorful flowers.",
+        "{pronoun} includes a winding river through the middle.",
+        "{pronoun} adds animals like birds and deer.",
+        "{pronoun} creates a small village with tiny houses.",
+        "{pronoun} highlights details with finer brushes.",
+        "{pronoun} signs the mural at the bottom corner."
+      ],
+      "question": "How many elements did {name} add to the mural?",
+      "answer": "{pronoun} added ",
+      "examples": [
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} attends a sports tournament.",
+      "sentences": [
+        "{pronoun} watches a soccer match.",
+        "{pronoun} cheers for a tennis player.",
+        "{pronoun} sees a basketball team warming up.",
+        "{pronoun} buys a snack from the concession stand.",
+        "{pronoun} waves a flag for their favorite team.",
+        "{pronoun} listens to an announcer introducing the players.",
+        "{pronoun} watches a close game of volleyball.",
+        "{pronoun} takes a photo with a mascot.",
+        "{pronoun} claps for the winners of a relay race.",
+        "{pronoun} collects a tournament schedule as a souvenir."
+      ],
+      "question": "How many activities did {name} participate in at the tournament?",
+      "answer": "{pronoun} participated in ",
+      "examples": [
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Tina", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} hikes a mountain trail.",
+      "sentences": [
+        "{pronoun} crosses a wooden bridge over a stream.",
+        "{pronoun} spots a deer grazing in the distance.",
+        "{pronoun} stops to drink water and rest.",
+        "{pronoun} takes photos of wildflowers along the path.",
+        "{pronoun} climbs a rocky incline to a viewpoint.",
+        "{pronoun} listens to birds chirping in the trees.",
+        "{pronoun} notices a squirrel darting across the trail.",
+        "{pronoun} enjoys a picnic at the summit.",
+        "{pronoun} watches the clouds rolling over the hills.",
+        "{pronoun} descends carefully down a steep slope."
+      ],
+      "question": "How many activities did {name} do during the hike?",
+      "answer": "{pronoun} did ",
+      "examples": [
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Quinn", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} visits a local farmers' market.",
+      "sentences": [
+        "{pronoun} buys a basket of strawberries.",
+        "{pronoun} tastes a sample of artisanal cheese.",
+        "{pronoun} admires handmade pottery at a stall.",
+        "{pronoun} picks out fresh vegetables for a salad.",
+        "{pronoun} listens to a street musician playing guitar.",
+        "{pronoun} purchases a loaf of sourdough bread.",
+        "{pronoun} sips freshly squeezed orange juice.",
+        "{pronoun} browses a collection of homemade candles.",
+        "{pronoun} chats with a farmer about seasonal produce.",
+        "{pronoun} watches a cooking demonstration at a booth."
+      ],
+      "question": "How many activities did {name} enjoy at the farmers' market?",
+      "answer": "{pronoun} enjoyed ",
+      "examples": [
+        { "name": "Harper", "pronoun": "They" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} designs a garden.",
+      "sentences": [
+        "{pronoun} sketches a layout for the garden.",
+        "{pronoun} plants a row of sunflowers.",
+        "{pronoun} digs a small pond for water plants.",
+        "{pronoun} arranges stepping stones along a path.",
+        "{pronoun} trims hedges into neat shapes.",
+        "{pronoun} builds a wooden bench under a tree.",
+        "{pronoun} installs a bird feeder near the flowers.",
+        "{pronoun} plants herbs in a raised bed.",
+        "{pronoun} spreads mulch around the base of the plants.",
+        "{pronoun} waters the entire garden to keep it fresh."
+      ],
+      "question": "How many elements did {name} add to the garden?",
+      "answer": "{pronoun} added ",
+      "examples": [
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Fiona", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} visits a museum.",
+      "sentences": [
+        "{pronoun} views a collection of ancient artifacts.",
+        "{pronoun} listens to an audio guide about history.",
+        "{pronoun} watches a short film about dinosaurs.",
+        "{pronoun} examines paintings by famous artists.",
+        "{pronoun} observes a live demonstration of pottery making.",
+        "{pronoun} takes a photo of a giant sculpture.",
+        "{pronoun} reads about the evolution of tools.",
+        "{pronoun} admires a model of a Viking ship.",
+        "{pronoun} walks through an exhibit on space exploration.",
+        "{pronoun} learns about the history of photography."
+      ],
+      "question": "How many exhibits did {name} visit at the museum?",
+      "answer": "{pronoun} visited ",
+      "examples": [
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Tina", "pronoun": "She" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} studies wildlife in the forest.",
+      "sentences": [
+        "{pronoun} spots a fox running through the trees.",
+        "{pronoun} watches a bird building its nest.",
+        "{pronoun} notices a family of deer grazing.",
+        "{pronoun} follows tracks left by a bear.",
+        "{pronoun} listens to frogs croaking by a stream.",
+        "{pronoun} observes squirrels collecting acorns.",
+        "{pronoun} sees a hawk circling overhead.",
+        "{pronoun} records the sound of crickets at night.",
+        "{pronoun} photographs mushrooms growing on a log.",
+        "{pronoun} identifies a butterfly species from a guidebook."
+      ],
+      "question": "How many animals or activities did {name} observe in the forest?",
+      "answer": "{pronoun} observed ",
+      "examples": [
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} sets up a campsite.",
+      "sentences": [
+        "{pronoun} pitches a tent near the trees.",
+        "{pronoun} builds a fire pit with rocks.",
+        "{pronoun} sets up sleeping bags inside the tent.",
+        "{pronoun} gathers firewood from the forest.",
+        "{pronoun} hangs a lantern on a nearby branch.",
+        "{pronoun} cooks dinner on a portable stove.",
+        "{pronoun} stores food in a bear-safe container.",
+        "{pronoun} roasts marshmallows over the fire.",
+        "{pronoun} lays out chairs for stargazing.",
+        "{pronoun} tidies up the campsite before sleeping."
+      ],
+      "question": "How many tasks did {name} complete to set up the campsite?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} builds a robot for a competition.",
+      "sentences": [
+        "{pronoun} designs the robot's frame.",
+        "{pronoun} assembles the motor and gears.",
+        "{pronoun} connects wires for the power supply.",
+        "{pronoun} installs sensors to detect obstacles.",
+        "{pronoun} programs the robot's movement.",
+        "{pronoun} tests the robot on a practice track.",
+        "{pronoun} adjusts the speed settings for better performance.",
+        "{pronoun} paints the robot to make it stand out.",
+        "{pronoun} adds a claw for picking up objects.",
+        "{pronoun} creates a presentation explaining the design."
+      ],
+      "question": "How many steps did {name} take to build the robot?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Harper", "pronoun": "They" },
+        { "name": "Victor", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} explores a haunted house.",
+      "sentences": [
+        "{pronoun} walks through a cobweb-covered doorway.",
+        "{pronoun} hears creaking sounds from the floorboards.",
+        "{pronoun} sees a portrait with moving eyes.",
+        "{pronoun} notices a cold breeze in the hallway.",
+        "{pronoun} finds a hidden room behind a curtain.",
+        "{pronoun} picks up an old journal filled with cryptic writing.",
+        "{pronoun} watches shadows flicker in the candlelight.",
+        "{pronoun} spots a ghostly figure at the top of the stairs.",
+        "{pronoun} discovers a key in a dusty drawer.",
+        "{pronoun} escapes through a trapdoor in the basement."
+      ],
+      "question": "How many eerie events did {name} experience in the haunted house?",
+      "answer": "{pronoun} experienced ",
+      "examples": [
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} organizes a charity event.",
+      "sentences": [
+        "{pronoun} sends out invitations to friends and family.",
+        "{pronoun} arranges tables and chairs for the event.",
+        "{pronoun} prepares a schedule of activities.",
+        "{pronoun} sets up a donation box at the entrance.",
+        "{pronoun} organizes volunteers to help with tasks.",
+        "{pronoun} orders food and drinks for the guests.",
+        "{pronoun} coordinates with a local band to perform.",
+        "{pronoun} creates banners and flyers for decoration.",
+        "{pronoun} greets attendees as they arrive.",
+        "{pronoun} thanks everyone for their contributions."
+      ],
+      "question": "How many tasks did {name} complete for the charity event?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Tina", "pronoun": "She" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Victor", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} organizes a birthday party.",
+      "sentences": [
+        "{pronoun} decorates the venue with balloons and streamers.",
+        "{pronoun} bakes a chocolate cake.",
+        "{pronoun} prepares a playlist of fun songs.",
+        "{pronoun} wraps gifts for the birthday guest.",
+        "{pronoun} sets up a table with snacks and drinks.",
+        "{pronoun} invites friends and family to the party.",
+        "{pronoun} creates a game for everyone to play.",
+        "{pronoun} arranges chairs for the guests.",
+        "{pronoun} lights the candles on the cake.",
+        "{pronoun} hands out party favors to the guests."
+      ],
+      "question": "How many tasks did {name} complete for the birthday party?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} volunteers at a community garden.",
+      "sentences": [
+        "{pronoun} plants rows of tomatoes and cucumbers.",
+        "{pronoun} pulls weeds from the flower beds.",
+        "{pronoun} waters all the plants in the garden.",
+        "{pronoun} spreads compost to enrich the soil.",
+        "{pronoun} builds a trellis for climbing plants.",
+        "{pronoun} harvests ripe vegetables for donation.",
+        "{pronoun} prunes bushes to keep them healthy.",
+        "{pronoun} cleans up fallen leaves from the paths.",
+        "{pronoun} sets up signs to label the crops.",
+        "{pronoun} helps organize a gardening workshop."
+      ],
+      "question": "How many activities did {name} do in the community garden?",
+      "answer": "{pronoun} did ",
+      "examples": [
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Logan", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} explores an aquarium.",
+      "sentences": [
+        "{pronoun} watches jellyfish floating in a tank.",
+        "{pronoun} sees a school of brightly colored fish.",
+        "{pronoun} observes a shark swimming gracefully.",
+        "{pronoun} learns about coral reefs from a guide.",
+        "{pronoun} touches a starfish at the touch pool.",
+        "{pronoun} sees an octopus hiding in its den.",
+        "{pronoun} watches a sea turtle glide through the water.",
+        "{pronoun} listens to a talk about marine conservation.",
+        "{pronoun} takes photos of penguins playing.",
+        "{pronoun} admires a giant stingray in a shallow pool."
+      ],
+      "question": "How many exhibits did {name} visit at the aquarium?",
+      "answer": "{pronoun} visited ",
+      "examples": [
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "George", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} helps out at an animal rescue center.",
+      "sentences": [
+        "{pronoun} feeds the cats and dogs their meals.",
+        "{pronoun} cleans the cages for small animals.",
+        "{pronoun} brushes a dog's fur to keep it neat.",
+        "{pronoun} takes a group of dogs for a walk.",
+        "{pronoun} plays fetch with a golden retriever.",
+        "{pronoun} helps organize adoption paperwork.",
+        "{pronoun} sets up new bedding for the animals.",
+        "{pronoun} photographs pets for the rescue website.",
+        "{pronoun} washes the bowls for feeding time.",
+        "{pronoun} distributes toys to keep the animals entertained."
+      ],
+      "question": "How many tasks did {name} complete at the rescue center?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Tina", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} visits a science center.",
+      "sentences": [
+        "{pronoun} plays with a hands-on physics experiment.",
+        "{pronoun} watches a short film about space exploration.",
+        "{pronoun} explores an exhibit about renewable energy.",
+        "{pronoun} tries a virtual reality spacewalk simulation.",
+        "{pronoun} learns about the structure of atoms.",
+        "{pronoun} observes a live demonstration of chemical reactions.",
+        "{pronoun} reads about the history of electricity.",
+        "{pronoun} experiments with a soundwave generator.",
+        "{pronoun} builds a small structure using magnetic blocks.",
+        "{pronoun} listens to a talk about climate change."
+      ],
+      "question": "How many exhibits or activities did {name} experience at the science center?",
+      "answer": "{pronoun} experienced ",
+      "examples": [
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Harper", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "George", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} builds a birdhouse.",
+      "sentences": [
+        "{pronoun} selects wood for the birdhouse frame.",
+        "{pronoun} cuts the wood to the right sizes.",
+        "{pronoun} nails the pieces together to form the base.",
+        "{pronoun} adds walls and a roof to the structure.",
+        "{pronoun} carves a small hole for the birds to enter.",
+        "{pronoun} sands down the edges for safety.",
+        "{pronoun} paints the birdhouse in bright colors.",
+        "{pronoun} installs a perch at the entrance.",
+        "{pronoun} attaches the birdhouse to a pole.",
+        "{pronoun} sets it up in the backyard under a tree."
+      ],
+      "question": "How many steps did {name} complete to build the birdhouse?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Tina", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} creates a digital artwork.",
+      "sentences": [
+        "{pronoun} sketches the outline on a digital tablet.",
+        "{pronoun} selects a vibrant color palette.",
+        "{pronoun} paints the background of the scene.",
+        "{pronoun} adds details to the characters.",
+        "{pronoun} uses shading to create depth.",
+        "{pronoun} experiments with texture brushes for realism.",
+        "{pronoun} refines the edges of the objects.",
+        "{pronoun} adds highlights to make the image pop.",
+        "{pronoun} signs their name in the corner of the piece.",
+        "{pronoun} shares the finished artwork on social media."
+      ],
+      "question": "How many steps did {name} take to create the digital artwork?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Harper", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Blake", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} conducts a nature photography session.",
+      "sentences": [
+        "{pronoun} sets up a camera on a tripod.",
+        "{pronoun} adjusts the lens for a close-up shot.",
+        "{pronoun} photographs a butterfly on a flower.",
+        "{pronoun} captures the sunset over a lake.",
+        "{pronoun} takes pictures of birds in flight.",
+        "{pronoun} experiments with black-and-white photography.",
+        "{pronoun} zooms in on dew drops on a leaf.",
+        "{pronoun} snaps a shot of a squirrel on a branch.",
+        "{pronoun} waits patiently for a fox to emerge.",
+        "{pronoun} uploads the photos to a laptop for editing."
+      ],
+      "question": "How many shots did {name} take during the photography session?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Paul", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Yara", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} learns to bake bread.",
+      "sentences": [
+        "{pronoun} measures the flour and water carefully.",
+        "{pronoun} mixes yeast into the dough.",
+        "{pronoun} kneads the dough on a floured surface.",
+        "{pronoun} lets the dough rise in a warm place.",
+        "{pronoun} preheats the oven to the right temperature.",
+        "{pronoun} shapes the dough into a loaf.",
+        "{pronoun} places the loaf in the oven to bake.",
+        "{pronoun} checks the bread for a golden crust.",
+        "{pronoun} cools the bread on a wire rack.",
+        "{pronoun} slices the bread and tastes the first piece."
+      ],
+      "question": "How many steps did {name} take to bake the bread?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Fiona", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} goes whale watching.",
+      "sentences": [
+        "{pronoun} boards a boat early in the morning.",
+        "{pronoun} listens to a guide explaining whale behaviors.",
+        "{pronoun} spots a whale spouting water from its blowhole.",
+        "{pronoun} sees a pod of dolphins swimming nearby.",
+        "{pronoun} takes photos of a whale breaching the surface.",
+        "{pronoun} observes a calf swimming with its mother.",
+        "{pronoun} hears the whale's deep call through a hydrophone.",
+        "{pronoun} watches seabirds flying over the ocean.",
+        "{pronoun} feels the boat rocking gently in the waves.",
+        "{pronoun} enjoys a cup of coffee while scanning the horizon."
+      ],
+      "question": "How many events did {name} experience while whale watching?",
+      "answer": "{pronoun} experienced ",
+      "examples": [
+        { "name": "Logan", "pronoun": "They" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Harper", "pronoun": "They" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} builds a model rocket.",
+      "sentences": [
+        "{pronoun} designs the rocket on paper.",
+        "{pronoun} selects lightweight materials for the body.",
+        "{pronoun} assembles the fins at the base.",
+        "{pronoun} installs the engine inside the rocket.",
+        "{pronoun} paints the rocket with bright colors.",
+        "{pronoun} attaches the parachute for a safe landing.",
+        "{pronoun} sets up the launchpad in an open field.",
+        "{pronoun} counts down and presses the launch button.",
+        "{pronoun} watches the rocket soar into the sky.",
+        "{pronoun} retrieves the rocket after it lands."
+      ],
+      "question": "How many steps did {name} complete to build the rocket?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Dana", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} prepares for a hiking trip.",
+      "sentences": [
+        "{pronoun} packs a backpack with essentials.",
+        "{pronoun} fills water bottles for hydration.",
+        "{pronoun} studies a map of the trails.",
+        "{pronoun} chooses sturdy hiking boots.",
+        "{pronoun} packs snacks for energy.",
+        "{pronoun} brings a first aid kit.",
+        "{pronoun} checks the weather forecast.",
+        "{pronoun} attaches a compass to the bag.",
+        "{pronoun} grabs a hat to protect from the sun.",
+        "{pronoun} sets an early alarm for the trip."
+      ],
+      "question": "How many preparations did {name} make for the hiking trip?",
+      "answer": "{pronoun} made ",
+      "examples": [
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} creates a scrapbook.",
+      "sentences": [
+        "{pronoun} selects photos from their vacation.",
+        "{pronoun} cuts decorative paper for backgrounds.",
+        "{pronoun} glues the photos onto the pages.",
+        "{pronoun} writes captions for each photo.",
+        "{pronoun} adds stickers to make the pages vibrant.",
+        "{pronoun} arranges pressed flowers on a page.",
+        "{pronoun} adds ribbons to the edges for decoration.",
+        "{pronoun} inserts tickets and postcards from the trip.",
+        "{pronoun} creates a title page with calligraphy.",
+        "{pronoun} binds the scrapbook together with string."
+      ],
+      "question": "How many steps did {name} complete to make the scrapbook?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Blake", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} plans a camping trip.",
+      "sentences": [
+        "{pronoun} chooses a campsite near a lake.",
+        "{pronoun} reserves a spot at the campground.",
+        "{pronoun} checks the rules for campfires.",
+        "{pronoun} buys marshmallows and graham crackers.",
+        "{pronoun} packs a sleeping bag and tent.",
+        "{pronoun} brings a portable stove for cooking.",
+        "{pronoun} gathers fishing gear for the trip.",
+        "{pronoun} creates a list of activities to do.",
+        "{pronoun} invites friends to join the trip.",
+        "{pronoun} prepares a playlist for the drive."
+      ],
+      "question": "How many tasks did {name} complete for the camping trip?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Sebastian", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} learns to play guitar.",
+      "sentences": [
+        "{pronoun} tunes the guitar before starting.",
+        "{pronoun} practices basic chords like C and G.",
+        "{pronoun} strums along with a metronome.",
+        "{pronoun} learns to play a simple song.",
+        "{pronoun} watches online tutorials for tips.",
+        "{pronoun} practices finger exercises for speed.",
+        "{pronoun} adjusts the guitar strap for comfort.",
+        "{pronoun} experiments with different strumming patterns.",
+        "{pronoun} records their progress for review.",
+        "{pronoun} learns to read basic sheet music."
+      ],
+      "question": "How many steps did {name} take to learn guitar?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} attends a cooking workshop.",
+      "sentences": [
+        "{pronoun} learns to chop vegetables efficiently.",
+        "{pronoun} prepares a tomato-based pasta sauce.",
+        "{pronoun} bakes a loaf of garlic bread.",
+        "{pronoun} grills chicken to perfection.",
+        "{pronoun} makes a fresh garden salad.",
+        "{pronoun} prepares a dessert of chocolate mousse.",
+        "{pronoun} learns to plate dishes attractively.",
+        "{pronoun} tastes and adjusts seasonings in the dishes.",
+        "{pronoun} washes utensils after cooking.",
+        "{pronoun} receives a certificate for completing the workshop."
+      ],
+      "question": "How many activities did {name} do during the cooking workshop?",
+      "answer": "{pronoun} did ",
+      "examples": [
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "George", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} writes a short story.",
+      "sentences": [
+        "{pronoun} brainstorms ideas for the plot.",
+        "{pronoun} creates a rough outline of the story.",
+        "{pronoun} writes an engaging introduction.",
+        "{pronoun} develops the main characters with unique traits.",
+        "{pronoun} describes the setting in vivid detail.",
+        "{pronoun} writes a compelling conflict in the story.",
+        "{pronoun} resolves the conflict with an interesting twist.",
+        "{pronoun} edits the draft for grammar mistakes.",
+        "{pronoun} asks a friend to provide feedback.",
+        "{pronoun} finalizes the story and saves it."
+      ],
+      "question": "How many steps did {name} take to write the story?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Fiona", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} builds a bookshelf.",
+      "sentences": [
+        "{pronoun} measures and cuts wooden planks.",
+        "{pronoun} sands the edges of the wood.",
+        "{pronoun} assembles the frame with screws.",
+        "{pronoun} paints the wood with a smooth finish.",
+        "{pronoun} adds shelves to the frame.",
+        "{pronoun} secures the bookshelf to the wall.",
+        "{pronoun} arranges books neatly on the shelves.",
+        "{pronoun} adds bookends for extra support.",
+        "{pronoun} decorates the top shelf with plants.",
+        "{pronoun} admires the completed bookshelf."
+      ],
+      "question": "How many steps did {name} complete to build the bookshelf?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} plans a surprise party.",
+      "sentences": [
+        "{pronoun} chooses a theme for the party.",
+        "{pronoun} creates a guest list.",
+        "{pronoun} sends invitations to friends and family.",
+        "{pronoun} orders decorations online.",
+        "{pronoun} selects a cake with a special design.",
+        "{pronoun} sets up games and activities for entertainment.",
+        "{pronoun} prepares a playlist with the guest of honor's favorite songs.",
+        "{pronoun} arranges a spot for gift collection.",
+        "{pronoun} coordinates with guests to arrive on time.",
+        "{pronoun} hides and shouts 'Surprise!' when the guest of honor arrives."
+      ],
+      "question": "How many tasks did {name} complete to plan the surprise party?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Yara", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} helps organize a book fair.",
+      "sentences": [
+        "{pronoun} sets up tables for book displays.",
+        "{pronoun} arranges books by genre.",
+        "{pronoun} hangs banners and signs for directions.",
+        "{pronoun} prepares a schedule for author talks.",
+        "{pronoun} sets up a booth for book signings.",
+        "{pronoun} greets visitors as they arrive.",
+        "{pronoun} distributes maps of the fair.",
+        "{pronoun} manages a raffle for free books.",
+        "{pronoun} restocks popular books on the tables.",
+        "{pronoun} thanks everyone for attending at the end."
+      ],
+      "question": "How many tasks did {name} complete at the book fair?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} plans a movie night.",
+      "sentences": [
+        "{pronoun} selects three movies to watch.",
+        "{pronoun} prepares popcorn with extra butter.",
+        "{pronoun} sets up pillows and blankets for comfort.",
+        "{pronoun} connects the projector to the laptop.",
+        "{pronoun} dims the lights in the room.",
+        "{pronoun} makes a list of snacks for everyone.",
+        "{pronoun} arranges seats for the guests.",
+        "{pronoun} tests the audio system for quality sound.",
+        "{pronoun} invites friends to join the movie night.",
+        "{pronoun} starts the first movie with excitement."
+      ],
+      "question": "How many preparations did {name} complete for the movie night?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} visits an art gallery.",
+      "sentences": [
+        "{pronoun} admires a painting of a sunset over a city.",
+        "{pronoun} observes a sculpture of a running horse.",
+        "{pronoun} listens to a curator explain an abstract piece.",
+        "{pronoun} views a collection of black-and-white photography.",
+        "{pronoun} reads the story behind a historical portrait.",
+        "{pronoun} takes notes about an artist’s unique style.",
+        "{pronoun} watches a video about modern art techniques.",
+        "{pronoun} explores an exhibit of digital installations.",
+        "{pronoun} sketches a favorite piece in a notebook.",
+        "{pronoun} purchases a postcard from the gift shop."
+      ],
+      "question": "How many activities did {name} complete at the art gallery?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Riley", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} trains for a marathon.",
+      "sentences": [
+        "{pronoun} runs 5 kilometers in the park.",
+        "{pronoun} stretches before and after the run.",
+        "{pronoun} hydrates with water during breaks.",
+        "{pronoun} practices sprints for speed improvement.",
+        "{pronoun} tracks progress using a fitness app.",
+        "{pronoun} attends a training session with a coach.",
+        "{pronoun} runs on a trail with challenging inclines.",
+        "{pronoun} eats a balanced meal to recover.",
+        "{pronoun} participates in a mock marathon for practice.",
+        "{pronoun} plans the next week's running schedule."
+      ],
+      "question": "How many steps did {name} complete in marathon training?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Blake", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} sets up a science experiment.",
+      "sentences": [
+        "{pronoun} gathers beakers and test tubes.",
+        "{pronoun} measures the chemicals carefully.",
+        "{pronoun} mixes the liquids to create a reaction.",
+        "{pronoun} records the temperature during the process.",
+        "{pronoun} observes the color changes in the solution.",
+        "{pronoun} documents the reaction time with a stopwatch.",
+        "{pronoun} cleans the equipment after the experiment.",
+        "{pronoun} discusses the results with a lab partner.",
+        "{pronoun} writes a detailed report about the findings.",
+        "{pronoun} presents the experiment to the class."
+      ],
+      "question": "How many tasks did {name} complete for the science experiment?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} explores a wildlife reserve.",
+      "sentences": [
+        "{pronoun} spots a herd of deer grazing in the field.",
+        "{pronoun} sees an eagle soaring high in the sky.",
+        "{pronoun} watches a family of ducks by the lake.",
+        "{pronoun} hears the croak of frogs near a pond.",
+        "{pronoun} observes a fox darting into the bushes.",
+        "{pronoun} notices a turtle basking on a rock.",
+        "{pronoun} identifies wildflowers along the trail.",
+        "{pronoun} records bird calls with a portable device.",
+        "{pronoun} photographs a butterfly resting on a leaf.",
+        "{pronoun} learns about conservation efforts from a guide."
+      ],
+      "question": "How many activities did {name} complete at the wildlife reserve?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "George", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Fiona", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} plans a holiday dinner.",
+      "sentences": [
+        "{pronoun} decides on a festive menu.",
+        "{pronoun} shops for ingredients at the market.",
+        "{pronoun} preps vegetables for the main dish.",
+        "{pronoun} bakes cookies shaped like stars.",
+        "{pronoun} sets the dining table with fancy plates.",
+        "{pronoun} arranges candles and flowers as a centerpiece.",
+        "{pronoun} cooks a roast with herbs and spices.",
+        "{pronoun} prepares a bowl of fresh salad.",
+        "{pronoun} serves drinks in elegant glasses.",
+        "{pronoun} welcomes guests with a warm smile."
+      ],
+      "question": "How many preparations did {name} make for the holiday dinner?",
+      "answer": "{pronoun} made ",
+      "examples": [
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Victor", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} builds a treehouse.",
+      "sentences": [
+        "{pronoun} draws a blueprint for the treehouse.",
+        "{pronoun} gathers wood and nails for construction.",
+        "{pronoun} builds the base platform securely.",
+        "{pronoun} adds walls to enclose the structure.",
+        "{pronoun} installs a ladder for easy access.",
+        "{pronoun} paints the treehouse in vibrant colors.",
+        "{pronoun} decorates the inside with pillows and lights.",
+        "{pronoun} hangs a sign with the name of the treehouse.",
+        "{pronoun} adds a pulley system for lifting supplies.",
+        "{pronoun} enjoys the view from the completed treehouse."
+      ],
+      "question": "How many steps did {name} take to build the treehouse?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Alex", "pronoun": "They" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" },
+        { "name": "Quinn", "pronoun": "They" }
+      ]
+    },
+    {
+      "prelude": "{name} hosts a book club meeting.",
+      "sentences": [
+        "{pronoun} selects a novel for everyone to read.",
+        "{pronoun} sends out reminders to the members.",
+        "{pronoun} prepares a cozy seating area.",
+        "{pronoun} brews coffee and tea for the guests.",
+        "{pronoun} bakes cookies for the group.",
+        "{pronoun} creates discussion prompts for the meeting.",
+        "{pronoun} welcomes everyone warmly as they arrive.",
+        "{pronoun} moderates the discussion about the book.",
+        "{pronoun} takes notes on everyone's opinions.",
+        "{pronoun} announces the book for the next meeting."
+      ],
+      "question": "How many tasks did {name} complete for the book club meeting?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "Yara", "pronoun": "She" },
+        { "name": "Victor", "pronoun": "He" },
+        { "name": "George", "pronoun": "He" },
+        { "name": "Fiona", "pronoun": "She" },
+        { "name": "Jason", "pronoun": "He" }
+      ]
+    },
+    {
+      "prelude": "{name} assembles a model airplane.",
+      "sentences": [
+        "{pronoun} selects the right kit for the model.",
+        "{pronoun} reads the instructions carefully.",
+        "{pronoun} assembles the fuselage of the plane.",
+        "{pronoun} attaches the wings to the body.",
+        "{pronoun} installs the landing gear underneath.",
+        "{pronoun} paints the plane with realistic details.",
+        "{pronoun} adds decals for authenticity.",
+        "{pronoun} balances the plane for a test flight.",
+        "{pronoun} launches the plane to see it fly.",
+        "{pronoun} places the finished model on a display stand."
+      ],
+      "question": "How many steps did {name} take to assemble the model airplane?",
+      "answer": "{pronoun} took ",
+      "examples": [
+        { "name": "Riley", "pronoun": "They" },
+        { "name": "Blake", "pronoun": "He" },
+        { "name": "Emma", "pronoun": "She" },
+        { "name": "Sebastian", "pronoun": "He" },
+        { "name": "Dana", "pronoun": "She" }
+      ]
+    },
+    {
+      "prelude": "{name} bakes a birthday cake.",
+      "sentences": [
+        "{pronoun} measures the flour, sugar, and butter.",
+        "{pronoun} mixes the ingredients into a smooth batter.",
+        "{pronoun} preheats the oven to the correct temperature.",
+        "{pronoun} pours the batter into a cake pan.",
+        "{pronoun} bakes the cake until golden brown.",
+        "{pronoun} prepares frosting in a separate bowl.",
+        "{pronoun} layers and frosts the cake evenly.",
+        "{pronoun} decorates the cake with sprinkles and candles.",
+        "{pronoun} writes 'Happy Birthday' with icing on top.",
+        "{pronoun} cleans up the kitchen after finishing."
+      ],
+      "question": "How many steps did {name} complete to bake the cake?",
+      "answer": "{pronoun} completed ",
+      "examples": [
+        { "name": "George", "pronoun": "He" },
+        { "name": "Alice", "pronoun": "She" },
+        { "name": "Tom", "pronoun": "He" },
+        { "name": "Quinn", "pronoun": "They" },
+        { "name": "Victor", "pronoun": "He" }
+      ]
+    }
+  ]
+            
